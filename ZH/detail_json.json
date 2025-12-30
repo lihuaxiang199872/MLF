@@ -1,0 +1,2690 @@
+{
+  "initialState": {
+    "common": {
+      "ask": {},
+      "cities": {
+        "cityData": []
+      }
+    },
+    "loading": {
+      "global": {
+        "count": 0
+      },
+      "local": {
+        "question\u002Fget\u002F": false,
+        "question\u002FgetAnswers\u002F1985011347914774514": false
+      }
+    },
+    "entities": {
+      "users": {
+        "f848fd9c8f4cdd9a2aadb5b77d51336f": {
+          "uid": 1878067810812448800,
+          "userType": "people",
+          "id": "f848fd9c8f4cdd9a2aadb5b77d51336f"
+        }
+      },
+      "questions": {
+        "1985011347914774514": {
+          "type": "question",
+          "title": "OpenAI被曝正寻求千亿美元融资，单季亏超120亿美元，公司进入「红色代码」紧急状态，透露哪些信息？",
+          "questionType": "normal",
+          "created": 1766043585,
+          "updatedTime": 1766324949,
+          "url": "https:\u002F\u002Fwww.zhihu.com\u002Fapi\u002Fv4\u002Fquestions\u002F1985011347914774514",
+          "isMuted": false,
+          "isVisible": true,
+          "isNormal": true,
+          "isEditable": false,
+          "adminClosedComment": false,
+          "hasPublishingDraft": false,
+          "answerCount": 157,
+          "visitCount": 1186387,
+          "commentCount": 22,
+          "followerCount": 619,
+          "collapsedAnswerCount": 2,
+          "excerpt": "OpenAI又在寻找新的融资。 当地时间12月18日，据外媒援引知情人士消息，人工智能（AI）巨头OpenAI正在就融资事宜与投资者进行初步谈判，公司的估值或将达到7500亿美元左右，并将成为今年最大的融资交易之一。 报道称，OpenAI最多可筹集到1000亿美元资金。据知情人士透露，相关讨论仍处于早期阶段，条款、估值和时间安排等细节可能发生变化。 OpenAI尚未对此消息作出置评。 目前，尚未实现盈利的OpenAI面临着巨大压力。 一方面，…",
+          "commentPermission": "all",
+          "detail": "\u003Cp\u003EOpenAI又在寻找新的融资。\u003C\u002Fp\u003E\u003Cp\u003E当地时间12月18日，据外媒援引知情人士消息，人工智能（AI）巨头OpenAI正在就融资事宜与投资者进行初步谈判，公司的估值或将达到7500亿美元左右，并将成为今年最大的融资交易之一。\u003C\u002Fp\u003E\u003Cp\u003E报道称，OpenAI最多可筹集到1000亿美元资金。据知情人士透露，相关讨论仍处于早期阶段，条款、估值和时间安排等细节可能发生变化。\u003C\u002Fp\u003E\u003Cp\u003EOpenAI尚未对此消息作出置评。\u003C\u002Fp\u003E\u003Cp\u003E目前，尚未实现盈利的OpenAI面临着巨大压力。\u003C\u002Fp\u003E\u003Cp\u003E一方面，随着谷歌等竞争对手频频发力，OpenAI CEO山姆·奥特曼（Sam Altman）在上周的一份的内部备忘录中宣布，公司进入“红色代码（code red）”紧急状态，“红色警报”下的“突击”行动将重新聚焦OpenAI在ChatGPT方面的工作，如改进其速度、可靠性和个性化程度。\u003C\u002Fp\u003E\u003Cp\u003E奥特曼表示，OpenAI计划推迟其他产品的开发，缩减在健康、购物和广告等领域的投入，因为“对ChatGPT而言，我们正处在一个关键时刻”。\u003C\u002Fp\u003E\u003Cp\u003E近期，OpenAI先后发布了“适用于专业知识工作的最强模型系列”GPT-5.2以及“全新旗舰图像生成模型”GPT Image 1.5。\u003C\u002Fp\u003E\u003Cp\u003E另一方面，OpenAI也面临着财务压力，加之为了扩张算力，近几个月来先后与甲骨文、英伟达、AMD、微软、亚马逊等巨头签署总额超万亿美元的协议，覆盖算力、云服务等多个关键领域，引发各界对于其能否负担巨额费用的担忧。\u003C\u002Fp\u003E\u003Ca href=\"https:\u002F\u002Flink.zhihu.com\u002F?target=https%3A\u002F\u002Fwww.thepaper.cn\u002FnewsDetail_forward_32201848\" data-draft-node=\"block\" data-draft-type=\"link-card\" data-draft-title=\"OpenAI被曝正寻求千亿美元融资，估值或达7500亿美元_10%公司_澎湃新闻-The Paper\" data-draft-cover=\"\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\"\u003EOpenAI被曝正寻求千亿美元融资，估值或达7500亿美元_10%公司_澎湃新闻-The Paper\u003C\u002Fa\u003E\u003Cp\u003E\u003C\u002Fp\u003E",
+          "editableDetail": "\u003Cp\u003EOpenAI又在寻找新的融资。\u003C\u002Fp\u003E\u003Cp\u003E当地时间12月18日，据外媒援引知情人士消息，人工智能（AI）巨头OpenAI正在就融资事宜与投资者进行初步谈判，公司的估值或将达到7500亿美元左右，并将成为今年最大的融资交易之一。\u003C\u002Fp\u003E\u003Cp\u003E报道称，OpenAI最多可筹集到1000亿美元资金。据知情人士透露，相关讨论仍处于早期阶段，条款、估值和时间安排等细节可能发生变化。\u003C\u002Fp\u003E\u003Cp\u003EOpenAI尚未对此消息作出置评。\u003C\u002Fp\u003E\u003Cp\u003E目前，尚未实现盈利的OpenAI面临着巨大压力。\u003C\u002Fp\u003E\u003Cp\u003E一方面，随着谷歌等竞争对手频频发力，OpenAI CEO山姆·奥特曼（Sam Altman）在上周的一份的内部备忘录中宣布，公司进入“红色代码（code red）”紧急状态，“红色警报”下的“突击”行动将重新聚焦OpenAI在ChatGPT方面的工作，如改进其速度、可靠性和个性化程度。\u003C\u002Fp\u003E\u003Cp\u003E奥特曼表示，OpenAI计划推迟其他产品的开发，缩减在健康、购物和广告等领域的投入，因为“对ChatGPT而言，我们正处在一个关键时刻”。\u003C\u002Fp\u003E\u003Cp\u003E近期，OpenAI先后发布了“适用于专业知识工作的最强模型系列”GPT-5.2以及“全新旗舰图像生成模型”GPT Image 1.5。\u003C\u002Fp\u003E\u003Cp\u003E另一方面，OpenAI也面临着财务压力，加之为了扩张算力，近几个月来先后与甲骨文、英伟达、AMD、微软、亚马逊等巨头签署总额超万亿美元的协议，覆盖算力、云服务等多个关键领域，引发各界对于其能否负担巨额费用的担忧。\u003C\u002Fp\u003E\u003Ca href=\"https:\u002F\u002Fwww.thepaper.cn\u002FnewsDetail_forward_32201848\" data-draft-node=\"block\" data-draft-type=\"link-card\" data-draft-title=\"OpenAI被曝正寻求千亿美元融资，估值或达7500亿美元_10%公司_澎湃新闻-The Paper\" data-draft-cover=\"\"\u003EOpenAI被曝正寻求千亿美元融资，估值或达7500亿美元_10%公司_澎湃新闻-The Paper\u003C\u002Fa\u003E\u003Cp\u003E\u003C\u002Fp\u003E",
+          "status": {
+            "isLocked": false,
+            "isClose": false,
+            "isEvaluate": false,
+            "isSuggest": false
+          },
+          "topics": [
+            {
+              "id": "19551275",
+              "type": "topic",
+              "url": "https:\u002F\u002Fwww.zhihu.com\u002Fapi\u002Fv4\u002Ftopics\u002F19551275",
+              "name": "人工智能",
+              "avatarUrl": "https:\u002F\u002Fpic1.zhimg.com\u002Fv2-c41d10d22173d515740c43c70f885705_qhd.jpg?source=57bbeac9",
+              "topicType": "NORMAL"
+            },
+            {
+              "id": "19551404",
+              "type": "topic",
+              "url": "https:\u002F\u002Fwww.zhihu.com\u002Fapi\u002Fv4\u002Ftopics\u002F19551404",
+              "name": "投资",
+              "avatarUrl": "https:\u002F\u002Fpicx.zhimg.com\u002Fv2-7e748e6626ce5b30b19b532abc288b1f_qhd.jpg?source=57bbeac9",
+              "topicType": "NORMAL"
+            },
+            {
+              "id": "19555457",
+              "type": "topic",
+              "url": "https:\u002F\u002Fwww.zhihu.com\u002Fapi\u002Fv4\u002Ftopics\u002F19555457",
+              "name": "商业",
+              "avatarUrl": "https:\u002F\u002Fpic1.zhimg.com\u002Fv2-267fb63601002d9b4202d0a89b24465a_qhd.jpg?source=57bbeac9",
+              "topicType": "NORMAL"
+            },
+            {
+              "id": "19565870",
+              "type": "topic",
+              "url": "https:\u002F\u002Fwww.zhihu.com\u002Fapi\u002Fv4\u002Ftopics\u002F19565870",
+              "name": "谷歌 (Google)",
+              "avatarUrl": "https:\u002F\u002Fpic1.zhimg.com\u002Fv2-b694f42e135d3cf2e3cd5d854086bc08_qhd.jpg?source=57bbeac9",
+              "topicType": "NORMAL"
+            },
+            {
+              "id": "26691895",
+              "type": "topic",
+              "url": "https:\u002F\u002Fwww.zhihu.com\u002Fapi\u002Fv4\u002Ftopics\u002F26691895",
+              "name": "ChatGPT",
+              "avatarUrl": "https:\u002F\u002Fpicx.zhimg.com\u002Fv2-c9c0aaa994a426cd6466e0d05a4925b3_qhd.jpg?source=57bbeac9",
+              "topicType": "NORMAL"
+            }
+          ],
+          "author": {
+            "id": "6f173fa827813aa9855c0950f914835d",
+            "urlToken": "mei-ri-jing-ji-xin-wen",
+            "name": "每日经济新闻",
+            "avatarUrl": "https:\u002F\u002Fpica.zhimg.com\u002Fv2-3c85f145c803f8c734e586243f171a50_l.jpg?source=1def8aca",
+            "avatarUrlTemplate": "https:\u002F\u002Fpic1.zhimg.com\u002Fv2-3c85f145c803f8c734e586243f171a50.jpg?source=1def8aca",
+            "isOrg": true,
+            "type": "people",
+            "url": "https:\u002F\u002Fwww.zhihu.com\u002Fapi\u002Fv4\u002Fpeople\u002F6f173fa827813aa9855c0950f914835d",
+            "userType": "organization",
+            "headline": "新闻决定影响力",
+            "badge": [
+              {
+                "type": "identity",
+                "description": "已认证账号",
+                "topics": []
+              }
+            ],
+            "badgeV2": {
+              "title": "已认证机构号",
+              "mergedBadges": [
+                {
+                  "type": "identity",
+                  "detailType": "identity_org",
+                  "title": "认证",
+                  "description": "已认证机构号",
+                  "url": "https:\u002F\u002Fwww.zhihu.com\u002Fterm\u002Finstitution-settle",
+                  "sources": [],
+                  "icon": "",
+                  "nightIcon": ""
+                }
+              ],
+              "detailBadges": [
+                {
+                  "type": "identity",
+                  "detailType": "identity_org",
+                  "title": "已认证机构号",
+                  "description": "已认证机构号",
+                  "url": "https:\u002F\u002Fwww.zhihu.com\u002Fterm\u002Finstitution-settle",
+                  "sources": [],
+                  "icon": "https:\u002F\u002Fpica.zhimg.com\u002Fv2-2ddc5cc683982648f6f123616fb4ec09_l.png?source=32738c0c",
+                  "nightIcon": "https:\u002F\u002Fpic1.zhimg.com\u002Fv2-2ddc5cc683982648f6f123616fb4ec09_l.png?source=32738c0c"
+                }
+              ],
+              "icon": "https:\u002F\u002Fpicx.zhimg.com\u002Fv2-2ddc5cc683982648f6f123616fb4ec09_l.png?source=32738c0c",
+              "nightIcon": "https:\u002F\u002Fpic1.zhimg.com\u002Fv2-2ddc5cc683982648f6f123616fb4ec09_l.png?source=32738c0c"
+            },
+            "gender": -1,
+            "isAdvertiser": false,
+            "isPrivacy": false
+          },
+          "canComment": {
+            "status": true,
+            "reason": ""
+          },
+          "thumbnailInfo": {
+            "count": 0,
+            "type": "thumbnail_info",
+            "thumbnails": []
+          },
+          "reviewInfo": {
+            "type": "",
+            "tips": "",
+            "editTips": "",
+            "isReviewing": false,
+            "editIsReviewing": false
+          },
+          "relatedCards": [],
+          "muteInfo": {
+            "type": ""
+          },
+          "showAuthor": false,
+          "isLabeled": false,
+          "isBannered": false,
+          "showEncourageAuthor": true,
+          "voteupCount": 32,
+          "canVote": true,
+          "reactionInstruction": {},
+          "invisibleAuthor": false,
+          "answerCountDescription": "全部内容 157",
+          "relationship": {
+            "isAuthor": false,
+            "isFollowing": false,
+            "isAnonymous": false,
+            "canLock": false,
+            "canStickAnswers": false,
+            "canCollapseAnswers": false,
+            "voting": 0
+          },
+          "id": "1985011347914774514"
+        }
+      },
+      "answers": {
+        "1985773770917566152": {
+          "adminClosedComment": false,
+          "allowSegmentInteraction": 1,
+          "annotationAction": null,
+          "answerType": "normal",
+          "attachedInfo": "ogEYCAQQAxjIrdHek9e4xxsg8q\u002FR3Nypi8YbkgIuCgk3NjE5MTA5MDQSEzE5ODU3NzM3NzA5MTc1NjYxNTIYBCIKSU1BR0VfVEVYVA==",
+          "author": {
+            "avatarUrl": "https:\u002F\u002Fpic1.zhimg.com\u002Fv2-082903ba99bf29f9a83f993633fde63e_l.jpg?source=1def8aca",
+            "avatarUrlTemplate": "https:\u002F\u002Fpicx.zhimg.com\u002Fv2-082903ba99bf29f9a83f993633fde63e.jpg?source=1def8aca",
+            "badge": [
+              {
+                "description": "美国注册会计师（AICPA）证书持证人",
+                "topics": [],
+                "type": "identity"
+              }
+            ],
+            "badgeV2": {
+              "detailBadges": [
+                {
+                  "description": "知势榜经济与管理领域成长力榜答主",
+                  "detailType": "super_activity",
+                  "icon": "https:\u002F\u002Fpicx.zhimg.com\u002Fv2-4a07bc69c4bb04444721f35b32125c75_l.png?source=32738c0c",
+                  "nightIcon": "https:\u002F\u002Fpicx.zhimg.com\u002Fv2-4a07bc69c4bb04444721f35b32125c75_l.png?source=32738c0c",
+                  "sources": [
+                    {
+                      "avatarPath": "",
+                      "avatarUrl": "",
+                      "description": "",
+                      "id": "27",
+                      "name": "知势榜8月",
+                      "priority": 27,
+                      "token": "",
+                      "type": "content_potential_category",
+                      "url": ""
+                    }
+                  ],
+                  "title": "社区成就",
+                  "type": "reward",
+                  "url": ""
+                },
+                {
+                  "description": "美国注册会计师（AICPA）证书持证人",
+                  "detailType": "identity_people",
+                  "icon": "https:\u002F\u002Fpicx.zhimg.com\u002Fv2-2ddc5cc683982648f6f123616fb4ec09_l.png?source=32738c0c",
+                  "nightIcon": "https:\u002F\u002Fpica.zhimg.com\u002Fv2-2ddc5cc683982648f6f123616fb4ec09_l.png?source=32738c0c",
+                  "sources": [],
+                  "title": "已认证的个人",
+                  "type": "identity",
+                  "url": "https:\u002F\u002Fzhuanlan.zhihu.com\u002Fp\u002F96956163"
+                }
+              ],
+              "icon": "https:\u002F\u002Fpicx.zhimg.com\u002Fv2-27bfcba90e66db79ce8768ab807e017e_l.png?source=32738c0c",
+              "mergedBadges": [
+                {
+                  "description": "知势榜经济与管理领域成长力榜答主",
+                  "detailType": "best",
+                  "icon": "",
+                  "nightIcon": "",
+                  "sources": [],
+                  "title": "社区成就",
+                  "type": "best",
+                  "url": ""
+                },
+                {
+                  "description": "美国注册会计师（AICPA）证书持证人",
+                  "detailType": "identity_people",
+                  "icon": "",
+                  "nightIcon": "",
+                  "sources": [],
+                  "title": "认证",
+                  "type": "identity",
+                  "url": "https:\u002F\u002Fzhuanlan.zhihu.com\u002Fp\u002F96956163"
+                }
+              ],
+              "nightIcon": "https:\u002F\u002Fpicx.zhimg.com\u002Fv2-27bfcba90e66db79ce8768ab807e017e_l.png?source=32738c0c",
+              "title": "知势榜经济与管理领域成长力榜答主"
+            },
+            "exposedMedal": {
+              "avatarUrl": "https:\u002F\u002Fpic1.zhimg.com\u002Fv2-e66f695db706a1c8c79b8097c1565da2_l.png?source=1def8aca",
+              "description": "「知势榜」上榜答主即可获得",
+              "medalAvatarFrame": "",
+              "medalId": "1463836052717301760",
+              "medalName": "知「势」之星",
+              "miniAvatarUrl": "https:\u002F\u002Fpicx.zhimg.com\u002Fv2-e66f695db706a1c8c79b8097c1565da2_r.png?source=1def8aca"
+            },
+            "followerCount": 7572,
+            "gender": -1,
+            "headline": "公号同名  INTJ-A",
+            "id": "5329e6ee6332a15761661ffcd216e5d6",
+            "isAdvertiser": false,
+            "isFollowed": false,
+            "isFollowing": false,
+            "isOrg": false,
+            "isPrivacy": false,
+            "name": "环中星鉴",
+            "type": "people",
+            "url": "https:\u002F\u002Fwww.zhihu.com\u002Fapi\u002Fv4\u002Fpeople\u002F5329e6ee6332a15761661ffcd216e5d6",
+            "urlToken": "lrc-8",
+            "userType": "people",
+            "vipInfo": {
+              "isVip": true,
+              "vipIcon": {
+                "nightModeUrl": "https:\u002F\u002Fpic1.zhimg.com\u002Fv2-c9686ff064ea3579730756ac6c289978.jpg?source=88ceefae",
+                "url": "https:\u002F\u002Fpicx.zhimg.com\u002Fv2-4812630bc27d642f7cafcd6cdeca3d7a.jpg?source=88ceefae"
+              }
+            }
+          },
+          "businessType": "normal",
+          "canComment": {
+            "reason": "",
+            "status": true
+          },
+          "collapseReason": "",
+          "collapsedBy": "nobody",
+          "commentCount": 196,
+          "commentPermission": "all",
+          "content": "\u003Cp data-pid=\"l4hYPBGY\"\u003E这个“红色代码”，确认的已经晚了。\u003C\u002Fp\u003E\u003Cp data-pid=\"II4F3iJL\"\u003E今年GPT-5发布以后，口碑马上翻车，几千个用户联名请愿要求恢复旧版。OpenAI紧急推出GPT-5.1，虽调整了语气、响应速度等，但并没有实质性的补强。\u003C\u002Fp\u003E\u003Cp data-pid=\"liiXrpWG\"\u003E压垮骆驼的最后一根稻草是谷歌11月发布的Gemini 3，处理文字、图片的能力、数学计算和写代码这些关键性能测试，直接超过了GPT-5，整个生态的月活达到了6.5亿。\u003C\u002Fp\u003E\u003Cp data-pid=\"MrCJ-LhH\"\u003E谷歌自研的TPU芯片也成功摆脱了对英伟达的依赖，相较OpenAI不得不缴英伟达税，成本上能节省很多。\u003C\u002Fp\u003E\u003Cp data-pid=\"qdRT-ap7\"\u003E除了技术，谷歌还有生态和分发优势。\u003C\u002Fp\u003E\u003Cp data-pid=\"G8iAQUsX\"\u003EGemini生态有Chrome、安卓、 Gmail等天然的分发渠道，能触达数十亿用户，关键获客成本是零。\u003C\u002Fp\u003E\u003Cp data-pid=\"0tvJwUxN\"\u003E也就是说，谷歌能靠内部赚钱的业务，来补贴免费的AI服务。这种靠内部供血、自力更生的模式，比起OpenAI依靠外部融资续命，来得可靠很多。\u003C\u002Fp\u003E\u003Cp data-pid=\"MGuy591p\"\u003E除了谷歌，Anthropic的Claude Sonnet 4.5也来夹击。\u003C\u002Fp\u003E\u003Cp data-pid=\"wBTgdmpx\"\u003E在软件工程师最看重的代码测试里(SWE-bench Verified)，Claude Sonnet 4.5获得77.2%的正确率，比GPT-5.1的76.3%略高。还能连续30多个小时专注处理复杂的多步骤任务，成了写代码的首选。\u003C\u002Fp\u003E\u003Cfigure data-size=\"normal\"\u003E\u003Cnoscript\u003E\u003Cimg src=\"https:\u002F\u002Fpica.zhimg.com\u002F50\u002Fv2-3395f226ee5462b938612a3c433a291e_720w.jpg?source=1def8aca\" data-rawwidth=\"1284\" data-rawheight=\"571\" data-size=\"normal\" data-original-token=\"v2-5fd0e1f5d5d8bccb5fe259f578191c8c\" class=\"origin_image zh-lightbox-thumb\" width=\"1284\" data-original=\"https:\u002F\u002Fpicx.zhimg.com\u002Fv2-3395f226ee5462b938612a3c433a291e_r.jpg?source=1def8aca\"\u002F\u003E\u003C\u002Fnoscript\u003E\u003Cimg src=\"data:image\u002Fsvg+xml;utf8,&lt;svg xmlns=&#39;http:\u002F\u002Fwww.w3.org\u002F2000\u002Fsvg&#39; width=&#39;1284&#39; height=&#39;571&#39;&gt;&lt;\u002Fsvg&gt;\" data-rawwidth=\"1284\" data-rawheight=\"571\" data-size=\"normal\" data-original-token=\"v2-5fd0e1f5d5d8bccb5fe259f578191c8c\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1284\" data-original=\"https:\u002F\u002Fpicx.zhimg.com\u002Fv2-3395f226ee5462b938612a3c433a291e_r.jpg?source=1def8aca\" data-actualsrc=\"https:\u002F\u002Fpica.zhimg.com\u002F50\u002Fv2-3395f226ee5462b938612a3c433a291e_720w.jpg?source=1def8aca\"\u002F\u003E\u003C\u002Ffigure\u003E\u003Cp data-pid=\"HpBvLeRo\"\u003E这俩竞品从性能、用户量到使用场景，正全面赶超OpenAI，让它失去了曾经最引以为傲的技术护城河。\u003C\u002Fp\u003E\u003Cp data-pid=\"QhIObFUQ\"\u003E说实在的，这个“红色代码”到现在才确认，已经有些晚了。\u003C\u002Fp\u003E\u003Chr\u002F\u003E\u003Cp data-pid=\"J1vRVPLZ\"\u003E这次的千亿美元融资，本质就是继续砸钱搞基建。\u003C\u002Fp\u003E\u003Cp data-pid=\"jrVQpb6J\"\u003EOpenAI计划未来十年超万亿美元的基建支出，包括与软银、甲骨文合作的5000亿美元“星门计划”、3000亿美元甲骨文云协议，以及11月刚宣布的380亿美元AWS合作等。\u003C\u002Fp\u003E\u003Cp data-pid=\"3V4Ig1gJ\"\u003E这些投入短期内看不到回报，但前期需要投入大量的资金。光靠OpenAI自己的赚钱能力，就别想了。\u003C\u002Fp\u003E\u003Cp data-pid=\"gJMtCO7v\"\u003EOpenAI 2025年的年化营收达到130亿美元，但单季度亏损达到120亿美元！明显赚钱的速度，远及不上花钱的速度。\u003C\u002Fp\u003E\u003Ca data-draft-node=\"block\" data-draft-type=\"link-card\" href=\"https:\u002F\u002Fwww.zhihu.com\u002Fquestion\u002F1967900167182181978\u002Fanswer\u002F1967991884661126278?utm_campaign=shareopn&amp;utm_content=group3_myAnswer&amp;utm_medium=social&amp;utm_psn=1967996876000322193&amp;utm_source=wechat_session\" data-draft-title=\"媒体曝 OpenAI 单季度亏损 120 亿美元，具体情况如何？目前 OpenAI 发展面临哪些问题？\" data-draft-cover=\"\" class=\"internal\"\u003E媒体曝 OpenAI 单季度亏损 120 亿美元，具体情况如何？目前 OpenAI 发展面临哪些问题？\u003C\u002Fa\u003E\u003Cp data-pid=\"P7jVq5h6\"\u003E营收主要来自ChatGPT Plus (20美元\u002F月) 和Pro(200美元\u002F月) 的订阅，还有摩根士丹利、思科等大企业的规模化部署。\u003C\u002Fp\u003E\u003Cp data-pid=\"umTt82qd\"\u003E这个营收模式，有两个问题：\u003C\u002Fp\u003E\u003Cp data-pid=\"BvzgnZ0W\"\u003E一是消费者付费率极低，8亿周活用户中仅5%付费，意味着绝大多数用户认为免费版就足够了。\u003C\u002Fp\u003E\u003Cp data-pid=\"JUxO-SX-\"\u003E二是在企业端，Anthropic抢占了42%的市场份额，远超OpenAI的21%。\u003C\u002Fp\u003E\u003Cp data-pid=\"NpFpZjzM\"\u003EAnthropic 80%的营收来自企业用户，主要看重它的写代码的能力。\u003C\u002Fp\u003E\u003Cp data-pid=\"-Tq1HhvB\"\u003EAnthropic的单用户营收达211美元，是OpenAI 25美元的8倍多，这个巨大的悬殊让OpenAI很尴尬。\u003C\u002Fp\u003E\u003Cfigure data-size=\"normal\"\u003E\u003Cnoscript\u003E\u003Cimg src=\"https:\u002F\u002Fpicx.zhimg.com\u002F50\u002Fv2-125d21b4c3f0415dfaacd6da933972c6_720w.jpg?source=1def8aca\" data-rawwidth=\"1219\" data-rawheight=\"677\" data-size=\"normal\" data-original-token=\"v2-56bcd95eaa1729f97c4aad0d202082bb\" class=\"origin_image zh-lightbox-thumb\" width=\"1219\" data-original=\"https:\u002F\u002Fpica.zhimg.com\u002Fv2-125d21b4c3f0415dfaacd6da933972c6_r.jpg?source=1def8aca\"\u002F\u003E\u003C\u002Fnoscript\u003E\u003Cimg src=\"data:image\u002Fsvg+xml;utf8,&lt;svg xmlns=&#39;http:\u002F\u002Fwww.w3.org\u002F2000\u002Fsvg&#39; width=&#39;1219&#39; height=&#39;677&#39;&gt;&lt;\u002Fsvg&gt;\" data-rawwidth=\"1219\" data-rawheight=\"677\" data-size=\"normal\" data-original-token=\"v2-56bcd95eaa1729f97c4aad0d202082bb\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1219\" data-original=\"https:\u002F\u002Fpica.zhimg.com\u002Fv2-125d21b4c3f0415dfaacd6da933972c6_r.jpg?source=1def8aca\" data-actualsrc=\"https:\u002F\u002Fpicx.zhimg.com\u002F50\u002Fv2-125d21b4c3f0415dfaacd6da933972c6_720w.jpg?source=1def8aca\"\u002F\u003E\u003C\u002Ffigure\u003E\u003Cp data-pid=\"v52nQVJM\"\u003E以上两个问题都说明客户不太想给OpenAI付钱。\u003C\u002Fp\u003E\u003Cp data-pid=\"DPuN2tIA\"\u003E一边是客户不买单，一边是巨大的基建投入，OpenAI的亏损大概率会继续扩大。\u003C\u002Fp\u003E\u003Cp data-pid=\"UdyQre8h\"\u003E以OpenAI目前这套基本面去融资，感觉捏一把汗。\u003C\u002Fp\u003E\u003Chr\u002F\u003E\u003Cp data-pid=\"PAcfZ95o\"\u003EOpenAI在今年10月的融资中，估值已达5000亿美元，较一年前的1570亿美元大幅飙升，让OpenAI成为世界上估值最高的私人企业。\u003C\u002Fp\u003E\u003Cp data-pid=\"VYwp1ZLC\"\u003E\u003Cb\u003E但这个高估值的背后，是极其严苛的增长要求——公司必须在2030年实现2000亿美元营收，且2028-2029年营收需先突破1000亿美元。\u003C\u002Fb\u003E\u003C\u002Fp\u003E\u003Cp data-pid=\"OvsyKwgK\"\u003E这次把估值再提高至7500亿美元，营收目标也得一起往上提。\u003C\u002Fp\u003E\u003Cp data-pid=\"KkBeT7Rl\"\u003E\u003Cb\u003E但2025年营收只有130亿美元，超千亿的营收目标，看上去遥不可及。\u003C\u002Fb\u003E\u003C\u002Fp\u003E\u003Cp data-pid=\"Kngaiwn1\"\u003E同时面对谷歌和Anthropic的步步紧逼，OpenAI要达成目标，只能靠持续烧钱，拼研发、拼基建，来赌技术上有飞跃，重新建立领先优势。\u003C\u002Fp\u003E\u003Cp data-pid=\"AbAaYgNU\"\u003E但以OpenAI目前的情况来看，要融到1000亿美元，难度很大。\u003C\u002Fp\u003E\u003Cp data-pid=\"PIo17-Ed\"\u003E企业在走上坡路的时候，资本追着你跑；走下坡路、找救命钱的时候，资本可能就不见了。\u003C\u002Fp\u003E\u003Cp data-pid=\"2JDnMzT8\"\u003EOpenAI的CFO之前说要政府担保融资，看来是万不得已，只能使出“大而不能倒”这张牌了。\u003C\u002Fp\u003E",
+          "contentMark": {},
+          "contentNeedTruncated": false,
+          "createdTime": 1766225360,
+          "decorativeLabels": [],
+          "editableContent": "",
+          "endorsements": [
+            {
+              "actionUrl": "https:\u002F\u002Fwww.zhihu.com\u002Fcolumn\u002Fc_1951742664182600211",
+              "backgroundColor": {
+                "alpha": 0.08,
+                "group": "GBL01A"
+              },
+              "elements": [
+                {
+                  "height": 16,
+                  "imageColor": {
+                    "alpha": 1,
+                    "group": "GBL01A"
+                  },
+                  "imageKey": "zhicon_icon_24_column_fill",
+                  "type": "IMAGE",
+                  "width": 16
+                },
+                {
+                  "content": "收录于 · 批判性思考AI",
+                  "fontColor": {
+                    "alpha": 1,
+                    "group": "GBL01A"
+                  },
+                  "fontSize": 13,
+                  "isBold": false,
+                  "maxLine": 1,
+                  "type": "TEXT"
+                },
+                {
+                  "height": 12,
+                  "imageColor": {
+                    "alpha": 1,
+                    "group": "GBL01A"
+                  },
+                  "imageKey": "zhicon_icon_16_arrow_right",
+                  "type": "IMAGE",
+                  "width": 12
+                }
+              ],
+              "subElements": [],
+              "subElementsType": "DESCRIPTION",
+              "za": {
+                "blockText": "Column",
+                "text": "收录于 · 批判性思考AI",
+                "type": "text"
+              }
+            }
+          ],
+          "excerpt": "这个“红色代码”，确认的已经晚了。 今年GPT-5发布以后，口碑马上翻车，几千个用户联名请愿要求恢复旧版。OpenAI紧急推出GPT-5.1，虽调整了语气、响应速度等，但并没有实质性的补强。 压垮骆驼的最后一根稻草是谷歌11月发布的Gemini 3，处理文字、图片的能力、数学计算和写代码这些关键性能测试，直接超过了GPT-5，整个生态的月活达到了6.5亿。 谷歌自研的TPU芯片也成功摆脱了对英伟达的依赖，相较OpenAI不得不缴英伟达税，成本…",
+          "extras": "",
+          "favlistsCount": 280,
+          "forceLoginWhenClickReadMore": false,
+          "hasPublishingDraft": false,
+          "hotComment": [
+            {
+              "author": {
+                "avatarUrl": "https:\u002F\u002Fpic1.zhimg.com\u002Fv2-0ad783eef9c69509c5c1dbbe624c8cf2_l.jpg?source=06d4cd63",
+                "avatarUrlTemplate": "https:\u002F\u002Fpicx.zhimg.com\u002Fv2-0ad783eef9c69509c5c1dbbe624c8cf2_l.jpg?source=06d4cd63",
+                "badgeV2": {
+                  "detailBadges": [],
+                  "mergedBadges": [],
+                  "title": ""
+                },
+                "exposedMedal": {
+                  "avatarUrl": "",
+                  "canClick": false,
+                  "description": "",
+                  "medalAvatarFrame": "",
+                  "medalId": "",
+                  "medalName": ""
+                },
+                "gender": 0,
+                "headline": "",
+                "id": "bdd566ab79a58ef7cad0853c3b4a839a",
+                "isAdvertiser": false,
+                "isOrg": false,
+                "kvipInfo": {
+                  "isVip": false
+                },
+                "name": "Lit",
+                "type": "people",
+                "url": "",
+                "urlToken": "lit-60-7",
+                "userType": "people",
+                "vipInfo": {
+                  "isVip": false
+                }
+              },
+              "canCollapse": false,
+              "canDelete": false,
+              "canDislike": true,
+              "canHot": false,
+              "canLike": true,
+              "canMore": true,
+              "canReply": true,
+              "canShare": true,
+              "canTruncate": false,
+              "canUnfold": false,
+              "childCommentCount": 27,
+              "collapsed": false,
+              "commentTag": [
+                {
+                  "color": "#999999",
+                  "hasBorder": false,
+                  "nightColor": "#999999",
+                  "text": "广东",
+                  "type": "ip_info"
+                },
+                {
+                  "color": "#FF9607",
+                  "hasBorder": false,
+                  "nightColor": "#FF9607",
+                  "text": "热评",
+                  "type": "hot"
+                }
+              ],
+              "content": "技术扩散很快啊，三年前的时候那个独断万古，连谷歌自己也说很难顶，谁知道就这样水灵灵的反超了，你谷歌还是你谷歌",
+              "createdTime": 1766243053,
+              "dislikeCount": 1,
+              "disliked": false,
+              "hot": true,
+              "id": "11372180286",
+              "isAuthor": false,
+              "isDelete": false,
+              "likeCount": 236,
+              "liked": false,
+              "objectId": 761910904,
+              "objectType": 2,
+              "replyCommentId": "0",
+              "resourceType": "answer",
+              "reviewing": false,
+              "score": 0,
+              "top": false,
+              "type": "comment",
+              "url": "\u002Fcomments\u002F11372180286"
+            }
+          ],
+          "id": "1985773770917566152",
+          "isCollapsed": false,
+          "isContainAiContent": false,
+          "isCopyable": false,
+          "isJumpNative": false,
+          "isMine": false,
+          "isNavigator": false,
+          "isNormal": true,
+          "isSticky": false,
+          "isVisible": true,
+          "linkCardInfo": {
+            "https:\u002F\u002Fwww.zhihu.com\u002Fquestion\u002F1967900167182181978\u002Fanswer\u002F1967991884661126278?utmCampaign=shareopn&utmContent=group3MyAnswer&utmMedium=social&utmPsn=1967996876000322193&utmSource=wechatSession": "{\"card_type\":\"card_1\",\"display\":{\"title\":\"媒体曝 OpenAI 单季度亏损 120 亿美元，具体情况如何？目前 OpenAI 发展面临哪些问题？\",\"card_open_url\":\"https:\u002F\u002Fwww.zhihu.com\u002Fquestion\u002F1967900167182181978\u002Fanswer\u002F1967991884661126278\",\"desc\":\"486 赞同 · 87 评论 \\u003ca class=\\\"tag type_a\\\"\\u003e回答\\u003c\u002Fa\\u003e\",\"content\":\"\\u003ca class=\\\"text normal\u002Fbold\\\" data-color=\\\"#444444\\\" data-night-color=\\\"#D3D3D3\\\"\\u003e环中星鉴:\\u003c\u002Fa\\u003e 这个问题出得很nice，竟然没有出现微软这两个字。 几个被投资者追着打的点： 第一，Open AI不是上市公司，没有义务公布财报。但母公司微软是上市公司，非公布不可。但微软现在的做法， 是把Open AI的亏损(上一财年47亿美元) 混在“其他净支出”里，没有单独列明具体金额。第二，微软没有披露微软对OpenAI的 持股比例、投资账面价值及公允价值。第三，微软没有在财报中把Open AI 列为关联方，也没有披露最近 Open AI和微软的那个…\",\"bg_type\":\"dark\"},\"source\":{\"content_type\":\"ANSWER\",\"content_id\":\"1967991884661126278\"},\"za_data\":{\"attach_info\":\"\"}}"
+          },
+          "matrixTips": "1259 赞同 · 280 收藏 · 196 评论",
+          "navigatorVote": false,
+          "question": {
+            "created": 1766043585,
+            "id": "1985011347914774514",
+            "questionType": "normal",
+            "relationship": null,
+            "title": "OpenAI被曝正寻求千亿美元融资，单季亏超120亿美元，公司进入「红色代码」紧急状态，透露哪些信息？",
+            "type": "question",
+            "updatedTime": 1766324949,
+            "url": "https:\u002F\u002Fwww.zhihu.com\u002Fapi\u002Fv4\u002Fquestions\u002F1985011347914774514"
+          },
+          "reaction": {
+            "relation": {
+              "liked": false
+            },
+            "statistics": {
+              "downVoteCount": 23,
+              "likeCount": 44
+            }
+          },
+          "reactionInstruction": {},
+          "relationship": {
+            "isAuthor": false,
+            "isAuthorized": false,
+            "isFavorited": false,
+            "isNothelp": false,
+            "isThanked": false,
+            "upvotedFollowees": [],
+            "voting": 0
+          },
+          "relevantInfo": {
+            "isRelevant": false,
+            "relevantText": "",
+            "relevantType": ""
+          },
+          "reshipmentSettings": "disallowed",
+          "rewardInfo": {
+            "canOpenReward": false,
+            "isRewardable": false,
+            "rewardMemberCount": 0,
+            "rewardTotalMoney": 0,
+            "tagline": ""
+          },
+          "segmentInfos": [
+            {
+              "marks": [
+                {
+                  "endIndex": 50,
+                  "segInfo": {
+                    "commentCount": 0,
+                    "isLike": false,
+                    "isSpan": false,
+                    "likeCount": 7,
+                    "myCommentCount": 0,
+                    "segIds": [
+                      "1986194565640767167"
+                    ]
+                  },
+                  "startIndex": 0
+                }
+              ],
+              "pid": "MrCJ-LhH",
+              "text": "谷歌自研的TPU芯片也成功摆脱了对英伟达的依赖，相较OpenAI不得不缴英伟达税，成本上能节省很多。"
+            },
+            {
+              "marks": [
+                {
+                  "endIndex": 68,
+                  "segInfo": {
+                    "commentCount": 0,
+                    "isLike": false,
+                    "isSpan": false,
+                    "likeCount": 3,
+                    "myCommentCount": 0,
+                    "segIds": [
+                      "1986194633722725151"
+                    ]
+                  },
+                  "startIndex": 0
+                }
+              ],
+              "pid": "0tvJwUxN",
+              "text": "也就是说，谷歌能靠内部赚钱的业务，来补贴免费的AI服务。这种靠内部供血、自力更生的模式，比起OpenAI依靠外部融资续命，来得可靠很多。"
+            }
+          ],
+          "stickyInfo": "",
+          "suggestEdit": {
+            "reason": "",
+            "status": false,
+            "tip": "",
+            "title": "",
+            "unnormalDetails": {
+              "description": "",
+              "note": "",
+              "reason": "",
+              "reasonId": 0,
+              "status": ""
+            },
+            "url": ""
+          },
+          "thanksCount": 44,
+          "thumbnailInfo": {
+            "count": 2,
+            "thumbnails": [
+              {
+                "height": 571,
+                "token": "v2-5fd0e1f5d5d8bccb5fe259f578191c8c",
+                "type": "image",
+                "url": "https:\u002F\u002Fpica.zhimg.com\u002F80\u002Fv2-5fd0e1f5d5d8bccb5fe259f578191c8c_720w.jpg?source=1def8aca",
+                "width": 1284
+              },
+              {
+                "height": 677,
+                "token": "v2-56bcd95eaa1729f97c4aad0d202082bb",
+                "type": "image",
+                "url": "https:\u002F\u002Fpicx.zhimg.com\u002F80\u002Fv2-56bcd95eaa1729f97c4aad0d202082bb_720w.jpg?source=1def8aca",
+                "width": 1219
+              }
+            ],
+            "type": "thumbnail_info"
+          },
+          "type": "answer",
+          "updatedTime": 1766225950,
+          "url": "https:\u002F\u002Fwww.zhihu.com\u002Fapi\u002Fv4\u002Fanswers\u002F1985773770917566152",
+          "visibleOnlyToAuthor": false,
+          "voteNextStep": "vote",
+          "voteupCount": 1259
+        },
+        "1986241562628363856": {
+          "adminClosedComment": false,
+          "allowSegmentInteraction": 1,
+          "annotationAction": null,
+          "answerType": "normal",
+          "attachedInfo": "ogEYCAQQAxjQrNLU14WjyBsg8q\u002FR3Nypi8YbkgIuCgk3NjIwNzI3MzcSEzE5ODYyNDE1NjI2MjgzNjM4NTYYBCIKSU1BR0VfVEVYVA==",
+          "author": {
+            "avatarUrl": "https:\u002F\u002Fpicx.zhimg.com\u002Fv2-f85c56a14245993531a1c36c47721ee4_l.jpg?source=1def8aca",
+            "avatarUrlTemplate": "https:\u002F\u002Fpicx.zhimg.com\u002Fv2-f85c56a14245993531a1c36c47721ee4.jpg?source=1def8aca",
+            "badge": [],
+            "badgeV2": {
+              "detailBadges": [
+                {
+                  "description": "大模型话题下的优秀答主",
+                  "detailType": "best_answerer",
+                  "icon": "https:\u002F\u002Fpic1.zhimg.com\u002Fv2-4a07bc69c4bb04444721f35b32125c75_l.png?source=32738c0c",
+                  "nightIcon": "https:\u002F\u002Fpicx.zhimg.com\u002Fv2-4a07bc69c4bb04444721f35b32125c75_l.png?source=32738c0c",
+                  "sources": [
+                    {
+                      "avatarPath": "v2-40e779d5c5e6bcebda41e92d50594618",
+                      "avatarUrl": "https:\u002F\u002Fpic1.zhimg.com\u002Fv2-40e779d5c5e6bcebda41e92d50594618_720w.jpg?source=32738c0c",
+                      "description": "",
+                      "id": "25402720",
+                      "name": "大模型",
+                      "priority": 0,
+                      "token": "25402720",
+                      "type": "topic",
+                      "url": "https:\u002F\u002Fwww.zhihu.com\u002Ftopic\u002F25402720"
+                    }
+                  ],
+                  "title": "优秀答主",
+                  "type": "best",
+                  "url": "https:\u002F\u002Fwww.zhihu.com\u002Fquestion\u002F48509984"
+                }
+              ],
+              "icon": "https:\u002F\u002Fpicx.zhimg.com\u002Fv2-4a07bc69c4bb04444721f35b32125c75_l.png?source=32738c0c",
+              "mergedBadges": [
+                {
+                  "description": "大模型话题下的优秀答主",
+                  "detailType": "best",
+                  "icon": "",
+                  "nightIcon": "",
+                  "sources": [
+                    {
+                      "avatarPath": "v2-40e779d5c5e6bcebda41e92d50594618",
+                      "avatarUrl": "https:\u002F\u002Fpic1.zhimg.com\u002Fv2-40e779d5c5e6bcebda41e92d50594618_720w.jpg?source=32738c0c",
+                      "description": "",
+                      "id": "25402720",
+                      "name": "大模型",
+                      "priority": 0,
+                      "token": "25402720",
+                      "type": "topic",
+                      "url": "https:\u002F\u002Fwww.zhihu.com\u002Ftopic\u002F25402720"
+                    }
+                  ],
+                  "title": "优秀答主",
+                  "type": "best",
+                  "url": "https:\u002F\u002Fwww.zhihu.com\u002Fquestion\u002F48509984"
+                }
+              ],
+              "nightIcon": "https:\u002F\u002Fpic1.zhimg.com\u002Fv2-4a07bc69c4bb04444721f35b32125c75_l.png?source=32738c0c",
+              "title": "大模型话题下的优秀答主"
+            },
+            "exposedMedal": {
+              "avatarUrl": "https:\u002F\u002Fpic1.zhimg.com\u002Fv2-1df62083e2d16ce5e82c3049e5d11e14_l.png?source=1def8aca",
+              "description": "赞同 1000 次",
+              "medalAvatarFrame": "",
+              "medalId": "972460827463282688",
+              "medalName": "表示赞同",
+              "miniAvatarUrl": "https:\u002F\u002Fpic1.zhimg.com\u002Fv2-1df62083e2d16ce5e82c3049e5d11e14_r.png?source=1def8aca"
+            },
+            "followerCount": 33403,
+            "gender": -1,
+            "headline": "人工智能 \u002F to know knowing itself",
+            "id": "bea84fe95aee12a6939ee59dde16d1b3",
+            "isAdvertiser": false,
+            "isFollowed": false,
+            "isFollowing": false,
+            "isOrg": false,
+            "isPrivacy": false,
+            "name": "Trisimo崔思莫",
+            "type": "people",
+            "url": "https:\u002F\u002Fwww.zhihu.com\u002Fapi\u002Fv4\u002Fpeople\u002Fbea84fe95aee12a6939ee59dde16d1b3",
+            "urlToken": "yu-you-56-63",
+            "userType": "people"
+          },
+          "businessType": "normal",
+          "canComment": {
+            "reason": "你的评论将会由作者筛选后显示",
+            "status": true
+          },
+          "collapseReason": "",
+          "collapsedBy": "nobody",
+          "commentCount": 0,
+          "commentPermission": "censor",
+          "content": "\u003Cp data-pid=\"hKz64ML-\"\u003E谢邀，bro.\u003C\u002Fp\u003E\u003Cp data-pid=\"1_gSENZS\"\u003EOpenAI 在考虑 2026年进行IPO的可能性，在一级市场上能拿的钱，基本已经拿完了。\u003C\u002Fp\u003E\u003Cp data-pid=\"2wSnzVpe\"\u003E后期的钱有一个明显的特点，投资人的算力合同捆绑，我投资你100亿美元，你买我1000亿美元算力。\u003C\u002Fp\u003E\u003Cp data-pid=\"uv20xbJh\"\u003E在这种奇葩的投资模式下，OpenAI积累1.4万亿算力合同，进而转化为债务。\u003Cb\u003E在我看来，这和饮鸩止渴没有区别。\u003C\u002Fb\u003E\u003C\u002Fp\u003E\u003Cp data-pid=\"4prDBmAY\"\u003EOpenAI现在处于一个非常拧巴的局面，多轮融资后，它的估值来到了5000亿美元，账面上巨亏和巨额债务。它想要更多的钱来还算力债，而算力还在建设中，导致它无法训练最顶级模型来达成技术垄断，实现自己10倍100倍的API价格计划。\u003C\u002Fp\u003E\u003Cp data-pid=\"_0lWDxrk\"\u003E——这在OpenAI推出ChatGPT Pro套餐时，已经是司马昭之心。而且OpenAI顶级模型的定价一点都不商品化，市场化，而是理想化。\u003C\u002Fp\u003E\u003Cp data-pid=\"TAzAgqL3\"\u003ESam Altman最底层的思维模型，就是垄断带来的超额回报。 他在YC的演讲中，\u003Cb\u003E曾说，市场没有大小，只有你在市场中的位置，是否拥有定价权。\u003C\u002Fb\u003E（这个理念一开始是彼得蒂尔提出来的，彼得是Sam的导师）\u003C\u002Fp\u003E\u003Cp data-pid=\"O-h3yEEh\"\u003ESam一直在加速OpenAI逼近这个临界点，他才会对算力产生“变态的渴求”。如果他有资金，就直接买下台积电的所有产能，让其他家拿不到算力。无论是什么形式的垄断，垄断本身是必须的\u003C\u002Fp\u003E\u003Cp data-pid=\"HaV1LE1P\"\u003E但问题是OpenAI收到了Google和Anthropic的双面夹击。Google是超理想主义，Anthropic是超实用主义，你跑分跑不过Google，没有人承认你有垄断的实力，甚至逼你拉响警报，现在谁是跑分一哥，这就说不清了，你要做AGI，多模态比Google明显瘸腿了，AGI不需要多模态么？在实战性上又无法压制Anthropic，Opus 4.5口碑回升，可见Dario也是个打不死的小强。\u003C\u002Fp\u003E\u003Cp data-pid=\"7IyvLJr5\"\u003EKarpathy在2025年货文章中提到了Nano banana，提到了Claude Code，但提到OpenAI时只提到了RLVR合成数据，这时大家都在做的，不是OpenAI的特色。 在Karpathy看来2025年，OpenAI没有太大作为，只是淡淡说了一句o3是明显的转折点，还强调了early 2025，不过在我印象中，o3的最大特点不是推理，是边推理边行动。\u003C\u002Fp\u003E\u003Cp data-pid=\"EvS_Fq1H\"\u003EOpenAI在GPT-5.2上，虽然更加激进，Sam Altman希望能加速产生一些技术垄断，提升API价格，来支撑收入，虽然在数学和某些科研知识上表现亮眼，但市场反馈在48小时内，跌入冰点。\u003C\u002Fp\u003E\u003Cp data-pid=\"0POo2yzv\"\u003E我基本完全看不出OpenAI 在2026-2027年有完成垄断的可能性，如果下一个版本Google在Agent和代码能力上压制或逼近OpenAI，OpenAI手里半张数学和科学的牌了，这能让OpenAI支撑万亿美元市值吗？除非Top 10药企把一半以上研发投入都交给你，或者你成为新的Google。这件事都挺荒诞的。\u003C\u002Fp\u003E\u003Cp data-pid=\"gUErklfL\"\u003E现在来看，OpenAI只是一家在合成数据用力最猛的公司，它并没有新的类似于o1的方法论转变，即使它有o1级的新技术，那你还要保证其他公司无法逆向工程。DeepSeek第一个不服。\u003C\u002Fp\u003E\u003Cp data-pid=\"i8qzzwKo\"\u003E从最近Sam Altman的访谈录来看，他依然痴迷于10倍 100倍的API价格的叙事，不认为200亿美元收入和1.4万亿收入有什么不可跨越的鸿沟。 也就是说，在OpenAI成长逻辑上，他们没有Plan B，只有建立在绝对垄断之上的金币雨。\u003C\u002Fp\u003E\u003Cp data-pid=\"WeZpSLhE\"\u003EOpenAI的上市之时，可能就是早期投资人离场的时刻。\u003C\u002Fp\u003E\u003Cp\u003E\u003C\u002Fp\u003E",
+          "contentMark": {},
+          "contentNeedTruncated": false,
+          "createdTime": 1766336891,
+          "decorativeLabels": [],
+          "editableContent": "",
+          "excerpt": "谢邀，bro. OpenAI 在考虑 2026年进行IPO的可能性，在一级市场上能拿的钱，基本已经拿完了。 后期的钱有一个明显的特点，投资人的算力合同捆绑，我投资你100亿美元，你买我1000亿美元算力。 在这种奇葩的投资模式下，OpenAI积累1.4万亿算力合同，进而转化为债务。 在我看来，这和饮鸩止渴没有区别。OpenAI现在处于一个非常拧巴的局面，多轮融资后，它的估值来到了5000亿美元，账面上巨亏和巨额债务。它想要更多的钱来还算力债，…",
+          "extras": "",
+          "favlistsCount": 43,
+          "forceLoginWhenClickReadMore": false,
+          "hasPublishingDraft": false,
+          "id": "1986241562628363856",
+          "isCollapsed": false,
+          "isContainAiContent": false,
+          "isCopyable": false,
+          "isJumpNative": false,
+          "isMine": false,
+          "isNavigator": false,
+          "isNormal": true,
+          "isSticky": false,
+          "isVisible": true,
+          "matrixTips": "144 赞同 · 43 收藏",
+          "navigatorVote": false,
+          "question": {
+            "created": 1766043585,
+            "id": "1985011347914774514",
+            "questionType": "normal",
+            "relationship": null,
+            "title": "OpenAI被曝正寻求千亿美元融资，单季亏超120亿美元，公司进入「红色代码」紧急状态，透露哪些信息？",
+            "type": "question",
+            "updatedTime": 1766324949,
+            "url": "https:\u002F\u002Fwww.zhihu.com\u002Fapi\u002Fv4\u002Fquestions\u002F1985011347914774514"
+          },
+          "reaction": {
+            "relation": {
+              "liked": false
+            },
+            "statistics": {
+              "downVoteCount": 5,
+              "likeCount": 7
+            }
+          },
+          "reactionInstruction": {},
+          "relationship": {
+            "isAuthor": false,
+            "isAuthorized": false,
+            "isFavorited": false,
+            "isNothelp": false,
+            "isThanked": false,
+            "upvotedFollowees": [],
+            "voting": 0
+          },
+          "relevantInfo": {
+            "isRelevant": false,
+            "relevantText": "",
+            "relevantType": ""
+          },
+          "reshipmentSettings": "disallowed",
+          "rewardInfo": {
+            "canOpenReward": false,
+            "isRewardable": true,
+            "rewardMemberCount": 0,
+            "rewardTotalMoney": 0,
+            "tagline": "真诚赞赏，手留余香"
+          },
+          "stickyInfo": "",
+          "suggestEdit": {
+            "reason": "",
+            "status": false,
+            "tip": "",
+            "title": "",
+            "unnormalDetails": {
+              "description": "",
+              "note": "",
+              "reason": "",
+              "reasonId": 0,
+              "status": ""
+            },
+            "url": ""
+          },
+          "thanksCount": 7,
+          "thumbnailInfo": {
+            "count": 0,
+            "thumbnails": [],
+            "type": "thumbnail_info"
+          },
+          "type": "answer",
+          "updatedTime": 1766336891,
+          "url": "https:\u002F\u002Fwww.zhihu.com\u002Fapi\u002Fv4\u002Fanswers\u002F1986241562628363856",
+          "visibleOnlyToAuthor": false,
+          "voteNextStep": "vote",
+          "voteupCount": 144
+        },
+        "1985312775183032652": {
+          "adminClosedComment": false,
+          "allowSegmentInteraction": 1,
+          "annotationAction": null,
+          "answerType": "normal",
+          "attachedInfo": "ogEYCAQQAxjMwtHmtO7Pxhsg8q\u002FR3Nypi8YbkgIuCgk3NjE3MjU4MzESEzE5ODUzMTI3NzUxODMwMzI2NTIYBCIKSU1BR0VfVEVYVA==",
+          "author": {
+            "avatarUrl": "https:\u002F\u002Fpicx.zhimg.com\u002Fv2-1b7f36f8df00aeae4f14c82ae8f28c42_l.jpg?source=1def8aca",
+            "avatarUrlTemplate": "https:\u002F\u002Fpicx.zhimg.com\u002Fv2-1b7f36f8df00aeae4f14c82ae8f28c42.jpg?source=1def8aca",
+            "badge": [],
+            "badgeV2": {
+              "detailBadges": [],
+              "icon": "",
+              "mergedBadges": [],
+              "nightIcon": "",
+              "title": ""
+            },
+            "exposedMedal": {
+              "avatarUrl": "https:\u002F\u002Fpicx.zhimg.com\u002Fv2-add99c668ba74a8af88aca9e1204fc98_l.png?source=1def8aca",
+              "description": "在「知识王者」答题 PK 游戏中达成十级满星",
+              "medalAvatarFrame": "",
+              "medalId": "1859928198093099008",
+              "medalName": "知识王者",
+              "miniAvatarUrl": "https:\u002F\u002Fpic1.zhimg.com\u002Fv2-add99c668ba74a8af88aca9e1204fc98_r.png?source=1def8aca"
+            },
+            "followerCount": 361,
+            "gender": 1,
+            "headline": "大模型不具备归纳推理能力，也不会创作",
+            "id": "bf35c2aefda2cdb2b3d13e5e5dafd915",
+            "isAdvertiser": false,
+            "isFollowed": false,
+            "isFollowing": false,
+            "isOrg": false,
+            "isPrivacy": false,
+            "name": "榛子",
+            "type": "people",
+            "url": "https:\u002F\u002Fwww.zhihu.com\u002Fapi\u002Fv4\u002Fpeople\u002Fbf35c2aefda2cdb2b3d13e5e5dafd915",
+            "urlToken": "20-14-46-8",
+            "userType": "people"
+          },
+          "businessType": "normal",
+          "canComment": {
+            "reason": "",
+            "status": true
+          },
+          "collapseReason": "",
+          "collapsedBy": "nobody",
+          "commentCount": 16,
+          "commentPermission": "all",
+          "content": "\u003Cp data-pid=\"XpICTpzm\"\u003EOpenAI 的财务风暴是通过微软财报被捅出来的（微软在 2025 年 9 月 30 日的季度财报中，因投资 OpenAI 记录了 41 亿美元 的费用。按照微软持股 32.5% 的比例反推，这意味着 OpenAI 本季度的实际亏损可能高达 120 亿美元），就是大家看到由“多方信源”披露的，公司不仅面临巨额亏损，更因竞争压力而被迫进入“紧急状态”的这段。其实已是旧闻了。\u003C\u002Fp\u003E\u003Cp data-pid=\"hUO2TVM7\"\u003E危机的核心：单季亏损超 120 亿美元是科技史上罕见的财务黑洞。由于微软采用权益法核算，其投资收益直接反映了 OpenAI 的实际经营状况。巨额亏损的背后是为了挣扎着在生成式大模型赛道保住领先位置，而销售低迷所带来的算力与人才争夺成本。\u003C\u002Fp\u003E\u003Cp data-pid=\"ryBHZWgb\"\u003E面对如此巨大的资金缺口，OpenAI 已启动了历史上规模最大的融资计划，试图寻求千亿美元级输血来支撑其“烧钱”战略。也就多家媒体报道，OpenAI 正寻求高达千亿美元 的新一轮融资，用于建设超大规模数据中心（如英伟达合作项目）、支付高昂的云服务账单以及研发下一代 GPT 模型；若融资成功，其投后估值可能飙升至 7500 亿美元 甚至更高。\u003C\u002Fp\u003E\u003Cp data-pid=\"4WDeFq9O\"\u003E这次奥特曼（Sam Altman）宣布公司进入“红色代码”状态的半旧闻，又一次脚注了 OpenAI 的战略重心：推迟其他产品开发，全力聚焦 ChatGPT 改进，在谷歌等对手面前保持性能领先，不惜一切代价维持统治地位。而市场的反应是为了维持这种高强度的竞争态势，OpenAI 面临着极其严峻的资金压力，用脚投票者众矣，拖累了整个美股。\u003C\u002Fp\u003E\u003Cp data-pid=\"GhBhDOYN\"\u003E这一事件揭示了当前 AI 行业的残酷现实： 强如OpenAI，也在军备竞赛中失控：为了对抗谷歌（Google）和 Meta，OpenAI 必须不断升级硬件和算法，导致边际成本极高；而创新公司商业化滞后的问题则把这家巨头推入了商业困境：不同于传统互联网广告变现，AI 的基础设施投入是刚性的，一旦停止投入，技术护城河就会瞬间崩塌。\u003C\u002Fp\u003E\u003Cfigure data-size=\"normal\"\u003E\u003Cnoscript\u003E\u003Cimg src=\"https:\u002F\u002Fpicx.zhimg.com\u002F50\u002Fv2-4229a229475c782838789f6ffcf2b10b_720w.jpg?source=1def8aca\" data-rawwidth=\"474\" data-rawheight=\"284\" data-size=\"normal\" data-original-token=\"v2-e1925f9a933bda1256e00be33dbeaf5e\" class=\"origin_image zh-lightbox-thumb\" width=\"474\" data-original=\"https:\u002F\u002Fpic1.zhimg.com\u002Fv2-4229a229475c782838789f6ffcf2b10b_r.jpg?source=1def8aca\"\u002F\u003E\u003C\u002Fnoscript\u003E\u003Cimg src=\"data:image\u002Fsvg+xml;utf8,&lt;svg xmlns=&#39;http:\u002F\u002Fwww.w3.org\u002F2000\u002Fsvg&#39; width=&#39;474&#39; height=&#39;284&#39;&gt;&lt;\u002Fsvg&gt;\" data-rawwidth=\"474\" data-rawheight=\"284\" data-size=\"normal\" data-original-token=\"v2-e1925f9a933bda1256e00be33dbeaf5e\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"474\" data-original=\"https:\u002F\u002Fpic1.zhimg.com\u002Fv2-4229a229475c782838789f6ffcf2b10b_r.jpg?source=1def8aca\" data-actualsrc=\"https:\u002F\u002Fpicx.zhimg.com\u002F50\u002Fv2-4229a229475c782838789f6ffcf2b10b_720w.jpg?source=1def8aca\"\u002F\u003E\u003C\u002Ffigure\u003E\u003Cp data-pid=\"NU8D3xx1\"\u003E“我们正在玩一场豪赌。如果不烧掉 1000 亿美元，我们就无法赢得这场游戏。” —— 如奥特曼说的，大家都在豪赌\u003C\u002Fp\u003E",
+          "contentMark": {},
+          "contentNeedTruncated": false,
+          "createdTime": 1766115450,
+          "decorativeLabels": [],
+          "editableContent": "",
+          "endorsements": [
+            {
+              "actionUrl": "https:\u002F\u002Fwww.zhihu.com\u002Fpeople\u002Fd371683fd9673e521609ae7a4788e856",
+              "backgroundColor": {
+                "alpha": 0.1,
+                "group": "GBL01A"
+              },
+              "elements": [
+                {
+                  "height": 16,
+                  "imageColor": {
+                    "alpha": 1,
+                    "group": "GBL07A"
+                  },
+                  "imageKey": "zhicon_icon_24_crab_fill",
+                  "type": "IMAGE",
+                  "width": 16
+                },
+                {
+                  "content": "谢邀 @liisu",
+                  "fontColor": {
+                    "alpha": 1,
+                    "group": "GBL07A"
+                  },
+                  "fontSize": 13,
+                  "isBold": true,
+                  "maxLine": 1,
+                  "type": "TEXT"
+                }
+              ],
+              "subElements": [],
+              "subElementsType": "DESCRIPTION",
+              "za": {
+                "blockText": "ThanksForInvitingLabel",
+                "text": "",
+                "type": "text"
+              }
+            },
+            {
+              "actionUrl": "https:\u002F\u002Fwww.zhihu.com\u002Fcolumn\u002Fc_1845351472394539008",
+              "backgroundColor": {
+                "alpha": 0.08,
+                "group": "GBL01A"
+              },
+              "elements": [
+                {
+                  "height": 16,
+                  "imageColor": {
+                    "alpha": 1,
+                    "group": "GBL01A"
+                  },
+                  "imageKey": "zhicon_icon_24_column_fill",
+                  "type": "IMAGE",
+                  "width": 16
+                },
+                {
+                  "content": "收录于 · 科技与社会",
+                  "fontColor": {
+                    "alpha": 1,
+                    "group": "GBL01A"
+                  },
+                  "fontSize": 13,
+                  "isBold": false,
+                  "maxLine": 1,
+                  "type": "TEXT"
+                },
+                {
+                  "height": 12,
+                  "imageColor": {
+                    "alpha": 1,
+                    "group": "GBL01A"
+                  },
+                  "imageKey": "zhicon_icon_16_arrow_right",
+                  "type": "IMAGE",
+                  "width": 12
+                }
+              ],
+              "subElements": [],
+              "subElementsType": "DESCRIPTION",
+              "za": {
+                "blockText": "Column",
+                "text": "收录于 · 科技与社会",
+                "type": "text"
+              }
+            }
+          ],
+          "excerpt": "OpenAI 的财务风暴是通过微软财报被捅出来的（微软在 2025 年 9 月 30 日的季度财报中，因投资 OpenAI 记录了 41 亿美元 的费用。按照微软持股 32.5% 的比例反推，这意味着 OpenAI 本季度的实际亏损可能高达 120 亿美元），就是大家看到由“多方信源”披露的，公司不仅面临巨额亏损，更因竞争压力而被迫进入“紧急状态”的这段。其实已是旧闻了。 危机的核心：单季亏损超 120 亿美元是科技史上罕见的财务黑洞。由于微软采用权益…",
+          "extras": "",
+          "favlistsCount": 22,
+          "forceLoginWhenClickReadMore": false,
+          "hasPublishingDraft": false,
+          "id": "1985312775183032652",
+          "isCollapsed": false,
+          "isContainAiContent": false,
+          "isCopyable": true,
+          "isJumpNative": false,
+          "isMine": false,
+          "isNavigator": false,
+          "isNormal": true,
+          "isSticky": false,
+          "isVisible": true,
+          "matrixTips": "114 赞同 · 22 收藏 · 16 评论",
+          "navigatorVote": false,
+          "question": {
+            "created": 1766043585,
+            "id": "1985011347914774514",
+            "questionType": "normal",
+            "relationship": null,
+            "title": "OpenAI被曝正寻求千亿美元融资，单季亏超120亿美元，公司进入「红色代码」紧急状态，透露哪些信息？",
+            "type": "question",
+            "updatedTime": 1766324949,
+            "url": "https:\u002F\u002Fwww.zhihu.com\u002Fapi\u002Fv4\u002Fquestions\u002F1985011347914774514"
+          },
+          "reaction": {
+            "relation": {
+              "liked": false
+            },
+            "statistics": {
+              "downVoteCount": 5,
+              "likeCount": 3
+            }
+          },
+          "reactionInstruction": {},
+          "relationship": {
+            "isAuthor": false,
+            "isAuthorized": false,
+            "isFavorited": false,
+            "isNothelp": false,
+            "isThanked": false,
+            "upvotedFollowees": [],
+            "voting": 0
+          },
+          "relevantInfo": {
+            "isRelevant": false,
+            "relevantText": "",
+            "relevantType": ""
+          },
+          "reshipmentSettings": "allowed",
+          "rewardInfo": {
+            "canOpenReward": false,
+            "isRewardable": false,
+            "rewardMemberCount": 0,
+            "rewardTotalMoney": 0,
+            "tagline": ""
+          },
+          "stickyInfo": "",
+          "suggestEdit": {
+            "reason": "",
+            "status": false,
+            "tip": "",
+            "title": "",
+            "unnormalDetails": {
+              "description": "",
+              "note": "",
+              "reason": "",
+              "reasonId": 0,
+              "status": ""
+            },
+            "url": ""
+          },
+          "thanksCount": 3,
+          "thumbnailInfo": {
+            "count": 1,
+            "thumbnails": [
+              {
+                "height": 284,
+                "token": "v2-e1925f9a933bda1256e00be33dbeaf5e",
+                "type": "image",
+                "url": "https:\u002F\u002Fpicx.zhimg.com\u002F80\u002Fv2-e1925f9a933bda1256e00be33dbeaf5e_720w.jpg?source=1def8aca",
+                "width": 474
+              }
+            ],
+            "type": "thumbnail_info"
+          },
+          "type": "answer",
+          "updatedTime": 1766115589,
+          "url": "https:\u002F\u002Fwww.zhihu.com\u002Fapi\u002Fv4\u002Fanswers\u002F1985312775183032652",
+          "visibleOnlyToAuthor": false,
+          "voteNextStep": "vote",
+          "voteupCount": 114
+        },
+        "1986349985072182381": {
+          "adminClosedComment": false,
+          "allowSegmentInteraction": 1,
+          "annotationAction": null,
+          "answerType": "normal",
+          "attachedInfo": "ogEYCAQQAxjt6NHemNm7yBsg8q\u002FR3Nypi8YbkgIuCgk3NjIwODc4MTQSEzE5ODYzNDk5ODUwNzIxODIzODEYBCIKSU1BR0VfVEVYVA==",
+          "author": {
+            "avatarUrl": "https:\u002F\u002Fpicx.zhimg.com\u002Fv2-6edcfe80670fffe43f2332411651f4fa_l.jpg?source=1def8aca",
+            "avatarUrlTemplate": "https:\u002F\u002Fpicx.zhimg.com\u002Fv2-6edcfe80670fffe43f2332411651f4fa.jpg?source=1def8aca",
+            "badge": [
+              {
+                "description": "FRM 金融风险管理师资格证持证人",
+                "topics": [],
+                "type": "identity"
+              },
+              {
+                "description": "CFA 特许金融分析师资格证持证人",
+                "topics": [],
+                "type": "identity"
+              }
+            ],
+            "badgeV2": {
+              "detailBadges": [
+                {
+                  "description": "CFA 特许金融分析师资格证持证人",
+                  "detailType": "identity_people",
+                  "icon": "https:\u002F\u002Fpicx.zhimg.com\u002Fv2-2ddc5cc683982648f6f123616fb4ec09_l.png?source=32738c0c",
+                  "nightIcon": "https:\u002F\u002Fpic1.zhimg.com\u002Fv2-2ddc5cc683982648f6f123616fb4ec09_l.png?source=32738c0c",
+                  "sources": [],
+                  "title": "已认证的个人",
+                  "type": "identity",
+                  "url": "https:\u002F\u002Fzhuanlan.zhihu.com\u002Fp\u002F96956163"
+                }
+              ],
+              "icon": "https:\u002F\u002Fpicx.zhimg.com\u002Fv2-2ddc5cc683982648f6f123616fb4ec09_l.png?source=32738c0c",
+              "mergedBadges": [
+                {
+                  "description": "CFA 特许金融分析师资格证持证人",
+                  "detailType": "identity_people",
+                  "icon": "",
+                  "nightIcon": "",
+                  "sources": [],
+                  "title": "认证",
+                  "type": "identity",
+                  "url": "https:\u002F\u002Fzhuanlan.zhihu.com\u002Fp\u002F96956163"
+                }
+              ],
+              "nightIcon": "https:\u002F\u002Fpicx.zhimg.com\u002Fv2-2ddc5cc683982648f6f123616fb4ec09_l.png?source=32738c0c",
+              "title": "CFA 特许金融分析师资格证持证人"
+            },
+            "exposedMedal": {
+              "avatarUrl": "",
+              "description": "",
+              "medalId": "0",
+              "medalName": ""
+            },
+            "followerCount": 21305,
+            "gender": 1,
+            "headline": "特许金融分析师（CFA）持证人",
+            "id": "949690fb652f46fc0193a0e96eaf88ea",
+            "isAdvertiser": false,
+            "isFollowed": false,
+            "isFollowing": false,
+            "isOrg": false,
+            "isPrivacy": false,
+            "name": "周小淇Colin",
+            "type": "people",
+            "url": "https:\u002F\u002Fwww.zhihu.com\u002Fapi\u002Fv4\u002Fpeople\u002F949690fb652f46fc0193a0e96eaf88ea",
+            "urlToken": "zhouqipru",
+            "userType": "people",
+            "vipInfo": {
+              "isVip": true,
+              "vipIcon": {
+                "nightModeUrl": "https:\u002F\u002Fpic1.zhimg.com\u002Fv2-c9686ff064ea3579730756ac6c289978.jpg?source=88ceefae",
+                "url": "https:\u002F\u002Fpic1.zhimg.com\u002Fv2-4812630bc27d642f7cafcd6cdeca3d7a.jpg?source=88ceefae"
+              }
+            }
+          },
+          "businessType": "normal",
+          "canComment": {
+            "reason": "",
+            "status": true
+          },
+          "collapseReason": "",
+          "collapsedBy": "nobody",
+          "commentCount": 0,
+          "commentPermission": "all",
+          "content": "\u003Ch3\u003E随着OpenAI在2025年末计划展开新一轮融资的消息传开，对于目前AI市场发展及投资意向均耐人寻味。\u003C\u002Fh3\u003E\u003Cp data-pid=\"Ws8uhMm6\"\u003EOpenAI目前主要存在的问题有以下几个方面：\u003C\u002Fp\u003E\u003Ch3\u003E一是“烧钱换增长”：\u003C\u002Fh3\u003E\u003Cp data-pid=\"S9k8Lufe\"\u003EOpenAI目前处于高速增长但巨额亏损持续的情形。2025年上半年营收约43亿美元，预计全年营收130-200亿美元。然而，全年净亏损135亿美元。\u003C\u002Fp\u003E\u003Cp data-pid=\"pB-xKkkO\"\u003E从收入端来看，OpenAI收入增长迅速，截至2025年11月，单月营收突破10亿美元；而主要收入来自于ChatGPT的订阅服务，目前订阅用户超过2000万。\u003C\u002Fp\u003E\u003Cp data-pid=\"Ubj9g0re\"\u003E而支出端主要来自于研发支出，仅2025年上半年即高达67亿美元。研发费用主要被用于AI模型训练及ChatGPT运营；此外，OpenAI的股权激励支出25亿美元，营销支出约20亿美元。\u003C\u002Fp\u003E\u003Cp data-pid=\"C1Ai9DZ9\"\u003E可以看出，尽管OpenAI在营收端高速增长，但支出增长更为迅速，导致公司“入不敷出”。\u003C\u002Fp\u003E\u003Ch3\u003E二是市场竞争加剧：\u003C\u002Fh3\u003E\u003Cp data-pid=\"JOQt7OfR\"\u003E面对2025年11月Google Gemini 3系列模型的发布，OpenAI内部再次发出“红色代码”紧急状态。这并不是今年内第一次“红色代码”；在2025年初DeepSeek风靡全球的时候，OpenAI的红色代码也一度发出。\u003C\u002Fp\u003E\u003Cp data-pid=\"qqCPE-tT\"\u003E\u003Cb\u003EGoogle Gemini 3在关键基准测试中取得突破，让OpenAI感到前所未有的压力：\u003C\u002Fb\u003E\u003C\u002Fp\u003E\u003Cul\u003E\u003Cli data-pid=\"FV7ElW5J\"\u003E在“人类终极考试”测试中，Gemini Deep Research得分46.4%，首次超越OpenAI的45%；\u003C\u002Fli\u003E\u003Cli data-pid=\"Z43FKW1G\"\u003E在DeepSearchQA多步研究测试中，Gemini以66.1%领先GPT-5.2的65.2%；\u003C\u002Fli\u003E\u003Cli data-pid=\"vOQ9j3fU\"\u003EGemini 3在GPQA钻石级科学问答测试中达到93.8%的准确率，也领先于GPT-5.2。\u003C\u002Fli\u003E\u003C\u002Ful\u003E\u003Cp data-pid=\"BE-GuRrF\"\u003E\u003Cb\u003E而Google Gemini最为核心的优势在于Google全栈生态：从自研TPU芯片，云服务到Android，搜索，Gmail等软件产品，Google目前正在构建“硬件，软件，模型，应用”的生态闭环体系，不仅节约成本，不再依赖“英伟达税”，还可以加速生态协同。\u003C\u002Fb\u003E\u003C\u002Fp\u003E\u003Cp data-pid=\"shb21Kd0\"\u003E\u003Cb\u003E而相比之下，OpenAI仅仅围绕软件端展开，既没有硬件、操作系统等，还依赖Microsoft等合作伙伴提供算力支持，在与Google的竞争中，已经有“相形见绌”的趋势。\u003C\u002Fb\u003E\u003C\u002Fp\u003E\u003Cfigure data-size=\"normal\"\u003E\u003Cnoscript\u003E\u003Cimg src=\"https:\u002F\u002Fpic1.zhimg.com\u002F50\u002Fv2-888705c33016b5fbfb1efb56967e6331_720w.jpg?source=1def8aca\" data-size=\"normal\" data-rawwidth=\"503\" data-rawheight=\"115\" data-original-token=\"v2-31144a37fab57649e9c5e10b036fc3c7\" class=\"origin_image zh-lightbox-thumb\" width=\"503\" data-original=\"https:\u002F\u002Fpicx.zhimg.com\u002Fv2-888705c33016b5fbfb1efb56967e6331_r.jpg?source=1def8aca\"\u002F\u003E\u003C\u002Fnoscript\u003E\u003Cimg src=\"data:image\u002Fsvg+xml;utf8,&lt;svg xmlns=&#39;http:\u002F\u002Fwww.w3.org\u002F2000\u002Fsvg&#39; width=&#39;503&#39; height=&#39;115&#39;&gt;&lt;\u002Fsvg&gt;\" data-size=\"normal\" data-rawwidth=\"503\" data-rawheight=\"115\" data-original-token=\"v2-31144a37fab57649e9c5e10b036fc3c7\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"503\" data-original=\"https:\u002F\u002Fpicx.zhimg.com\u002Fv2-888705c33016b5fbfb1efb56967e6331_r.jpg?source=1def8aca\" data-actualsrc=\"https:\u002F\u002Fpic1.zhimg.com\u002F50\u002Fv2-888705c33016b5fbfb1efb56967e6331_720w.jpg?source=1def8aca\"\u002F\u003E\u003Cfigcaption\u003EMicrosoft目前是OpenAI的重要股东\u003C\u002Ffigcaption\u003E\u003C\u002Ffigure\u003E\u003Ch3\u003E大浪淘沙之后的AI市场：Open AI能否“力挽狂澜”\u003C\u002Fh3\u003E\u003Cp data-pid=\"XnGigeBy\"\u003E当然，作为全球AI行业的先行者，目前OpenAI还是有一定的先发优势，包括目前用户数的大幅度领先；当前ChatGPT周活用户大约8亿，而Gemini的周活大约6.5亿。在有Microsoft的大力支持之下，是否能够在AI市场力挽狂澜，值得关注。\u003C\u002Fp\u003E",
+          "contentMark": {},
+          "contentNeedTruncated": false,
+          "createdTime": 1766362741,
+          "decorativeLabels": [],
+          "editableContent": "",
+          "endorsements": [
+            {
+              "actionUrl": "https:\u002F\u002Fwww.zhihu.com\u002Fcolumn\u002Fc_1852089130168770560",
+              "backgroundColor": {
+                "alpha": 0.08,
+                "group": "GBL01A"
+              },
+              "elements": [
+                {
+                  "height": 16,
+                  "imageColor": {
+                    "alpha": 1,
+                    "group": "GBL01A"
+                  },
+                  "imageKey": "zhicon_icon_24_column_fill",
+                  "type": "IMAGE",
+                  "width": 16
+                },
+                {
+                  "content": "收录于 · Colin说金融",
+                  "fontColor": {
+                    "alpha": 1,
+                    "group": "GBL01A"
+                  },
+                  "fontSize": 13,
+                  "isBold": false,
+                  "maxLine": 1,
+                  "type": "TEXT"
+                },
+                {
+                  "height": 12,
+                  "imageColor": {
+                    "alpha": 1,
+                    "group": "GBL01A"
+                  },
+                  "imageKey": "zhicon_icon_16_arrow_right",
+                  "type": "IMAGE",
+                  "width": 12
+                }
+              ],
+              "subElements": [],
+              "subElementsType": "DESCRIPTION",
+              "za": {
+                "blockText": "Column",
+                "text": "收录于 · Colin说金融",
+                "type": "text"
+              }
+            }
+          ],
+          "excerpt": "随着OpenAI在2025年末计划展开新一轮融资的消息传开，对于目前AI市场发展及投资意向均耐人寻味。OpenAI目前主要存在的问题有以下几个方面： 一是“烧钱换增长”：OpenAI目前处于高速增长但巨额亏损持续的情形。2025年上半年营收约43亿美元，预计全年营收130-200亿美元。然而，全年净亏损135亿美元。 从收入端来看，OpenAI收入增长迅速，截至2025年11月，单月营收突破10亿美元；而主要收入来自于ChatGPT的订阅服务，目前订阅用户…",
+          "extras": "",
+          "favlistsCount": 1,
+          "forceLoginWhenClickReadMore": false,
+          "hasPublishingDraft": false,
+          "id": "1986349985072182381",
+          "isCollapsed": false,
+          "isContainAiContent": false,
+          "isCopyable": false,
+          "isJumpNative": false,
+          "isMine": false,
+          "isNavigator": false,
+          "isNormal": true,
+          "isSticky": false,
+          "isVisible": true,
+          "matrixTips": "4 赞同 · 1 收藏",
+          "navigatorVote": false,
+          "question": {
+            "created": 1766043585,
+            "id": "1985011347914774514",
+            "questionType": "normal",
+            "relationship": null,
+            "title": "OpenAI被曝正寻求千亿美元融资，单季亏超120亿美元，公司进入「红色代码」紧急状态，透露哪些信息？",
+            "type": "question",
+            "updatedTime": 1766324949,
+            "url": "https:\u002F\u002Fwww.zhihu.com\u002Fapi\u002Fv4\u002Fquestions\u002F1985011347914774514"
+          },
+          "reaction": {
+            "relation": {
+              "liked": false
+            },
+            "statistics": {
+              "downVoteCount": 0,
+              "likeCount": 0
+            }
+          },
+          "reactionInstruction": {},
+          "relationship": {
+            "isAuthor": false,
+            "isAuthorized": false,
+            "isFavorited": false,
+            "isNothelp": false,
+            "isThanked": false,
+            "upvotedFollowees": [],
+            "voting": 0
+          },
+          "relevantInfo": {
+            "isRelevant": false,
+            "relevantText": "",
+            "relevantType": ""
+          },
+          "reshipmentSettings": "disallowed",
+          "rewardInfo": {
+            "canOpenReward": false,
+            "isRewardable": false,
+            "rewardMemberCount": 0,
+            "rewardTotalMoney": 0,
+            "tagline": ""
+          },
+          "settings": {
+            "tableOfContents": {
+              "enabled": false
+            }
+          },
+          "stickyInfo": "",
+          "suggestEdit": {
+            "reason": "",
+            "status": false,
+            "tip": "",
+            "title": "",
+            "unnormalDetails": {
+              "description": "",
+              "note": "",
+              "reason": "",
+              "reasonId": 0,
+              "status": ""
+            },
+            "url": ""
+          },
+          "thanksCount": 0,
+          "thumbnailInfo": {
+            "count": 1,
+            "thumbnails": [
+              {
+                "height": 115,
+                "token": "v2-31144a37fab57649e9c5e10b036fc3c7",
+                "type": "image",
+                "url": "https:\u002F\u002Fpic1.zhimg.com\u002F80\u002Fv2-31144a37fab57649e9c5e10b036fc3c7_720w.jpg?source=1def8aca",
+                "width": 503
+              }
+            ],
+            "type": "thumbnail_info"
+          },
+          "type": "answer",
+          "updatedTime": 1766362741,
+          "url": "https:\u002F\u002Fwww.zhihu.com\u002Fapi\u002Fv4\u002Fanswers\u002F1986349985072182381",
+          "visibleOnlyToAuthor": false,
+          "voteNextStep": "vote",
+          "voteupCount": 4
+        },
+        "1985941118379131183": {
+          "adminClosedComment": false,
+          "allowSegmentInteraction": 1,
+          "annotationAction": null,
+          "answerType": "normal",
+          "attachedInfo": "ogEYCAQQAxivgtLOzd3exxsg8q\u002FR3Nypi8YbkgIuCgk3NjE5NjAxOTASEzE5ODU5NDExMTgzNzkxMzExODMYBCIKSU1BR0VfVEVYVA==",
+          "author": {
+            "avatarUrl": "https:\u002F\u002Fpic1.zhimg.com\u002Fv2-e47ec605f1d1e0cbbd72619795eed7c6_l.jpg?source=1def8aca",
+            "avatarUrlTemplate": "https:\u002F\u002Fpica.zhimg.com\u002Fv2-e47ec605f1d1e0cbbd72619795eed7c6.jpg?source=1def8aca",
+            "badge": [],
+            "badgeV2": {
+              "detailBadges": [],
+              "icon": "",
+              "mergedBadges": [],
+              "nightIcon": "",
+              "title": ""
+            },
+            "exposedMedal": {
+              "avatarUrl": "",
+              "description": "",
+              "medalId": "0",
+              "medalName": ""
+            },
+            "followerCount": 108771,
+            "gender": 1,
+            "headline": "天下兴亡，匹夫有责",
+            "id": "274efb206bd5475431cb960ee01db1c2",
+            "isAdvertiser": false,
+            "isFollowed": false,
+            "isFollowing": false,
+            "isOrg": false,
+            "isPrivacy": true,
+            "name": "黑兵",
+            "type": "people",
+            "url": "https:\u002F\u002Fwww.zhihu.com\u002Fapi\u002Fv4\u002Fpeople\u002F274efb206bd5475431cb960ee01db1c2",
+            "urlToken": "blackwarrior-63",
+            "userType": "people",
+            "vipInfo": {
+              "isVip": true,
+              "vipIcon": {
+                "nightModeUrl": "https:\u002F\u002Fpica.zhimg.com\u002Fv2-c9686ff064ea3579730756ac6c289978.jpg?source=88ceefae",
+                "url": "https:\u002F\u002Fpicx.zhimg.com\u002Fv2-4812630bc27d642f7cafcd6cdeca3d7a.jpg?source=88ceefae"
+              }
+            }
+          },
+          "businessType": "normal",
+          "canComment": {
+            "reason": "",
+            "status": true
+          },
+          "collapseReason": "",
+          "collapsedBy": "nobody",
+          "commentCount": 44,
+          "commentPermission": "all",
+          "content": "\u003Cp data-pid=\"SLG6i9S4\"\u003E其实OpenAI走了一条很偏的路。\u003C\u002Fp\u003E\u003Cp data-pid=\"MOIOoR8q\"\u003EOpenAI的月活是8亿，全球70亿人，去掉非洲印度南美和中俄被限制IP的人群，估计大概二三十亿的西方国家人口一半人应该都在使用ChatGPT。\u003C\u002Fp\u003E\u003Cp data-pid=\"D76aXLvF\"\u003E这说明什么呢，就是ChatGPT应该是一款泛用ai，它的月活量如此之大，必然专业需求只是适用人群的很小一部分。\u003C\u002Fp\u003E\u003Cp data-pid=\"H5b-rJjU\"\u003E大多数的用户应该都是在问百科知识，或者一些初级技能的简化操作，以及角色扮演，感情咨询一类的。\u003C\u002Fp\u003E\u003Cp data-pid=\"l8tqRBM3\"\u003E当然少部分人群用来写代码和做学术和专业工作。\u003C\u002Fp\u003E\u003Cp data-pid=\"rIKASHsN\"\u003E可OpenAI最近几波更新针对的明显是专业工作需求，用来查学术资料和办公软件以及写代码确实蛮好用。\u003C\u002Fp\u003E\u003Cp data-pid=\"FtBZu3T2\"\u003E可问题是，当GPT的更新越来越偏向代码和学术时，这8亿人口的大概90%比例就被抛弃了。\u003C\u002Fp\u003E\u003Cp data-pid=\"zQSMlAK5\"\u003E这群人会觉得用GPT越来越用不惯，所以Gemini3这个虽然专业性不足，但是世界知识更丰富，并且情商更高的ai开始大幅度增加月活数量，达到了6亿，而Gemini对IP的限制比GPT严得多，所以Gemini3已经基本赶上了GPT的月活数量。\u003C\u002Fp\u003E\u003Cp data-pid=\"awv9iXoT\"\u003E这就让GPT面临一个艰难的选择，如果往通用模型方向更新，那么GPT很难赚到盈利最大的部分码农的钱，如果往专业方向发展，那么必然失去广大不需要工具需求的用户。\u003C\u002Fp\u003E\u003Cp data-pid=\"BFUsP6UP\"\u003E所以GPT怎么做都不对，一边是失去客户，一边是失去赚钱的能力。\u003C\u002Fp\u003E\u003Cp data-pid=\"Vv3VyXKC\"\u003E究其根本也是因为，ai从一家独大转变成了各家用自己的特色吸引客户，而GPT作为龙头很难兼顾各方面，这就必然导致客户流失和盈利能力的下降。\u003C\u002Fp\u003E\u003Cp data-pid=\"4_Y6hAiu\"\u003E我认为GPT目前更新的路线不能算错，毕竟专业需求更为稳定，盈利数字也更为稳定，但是它再想创造当年的奇迹就很困难了。\u003C\u002Fp\u003E\u003Cp data-pid=\"htkhHzip\"\u003E我认为接下来OpenAI的融资会越来越难，因为投资者会看到接下来scaling的难度和成本是指数级上升，而OpenAI的盈利能力也不再会上涨了，因为OpenAI已经没能力泛用和专用模型两者兼顾了，市场上的竞争模型足够多，ChatGPT已经没有这个空间了。\u003C\u002Fp\u003E\u003Cp data-pid=\"Ehv6BN4T\"\u003E现在GPT更新的图像模型还是没赶上Nano banana pro就是一个证据，泛化能力已经不行了。而情感用户早就抛弃这个没人味的GPT5.2,拥抱其他模型去了。\u003C\u002Fp\u003E\u003Cp data-pid=\"hets3UYp\"\u003E当然搞学术，办公工具，和写代码的人会留下来，以后GPT就会成为一个工作专用APP。但这能不能撑起地球头号ai的地位，那可就难说了。\u003C\u002Fp\u003E\u003Cp\u003E\u003C\u002Fp\u003E\u003Cp\u003E\u003C\u002Fp\u003E",
+          "contentMark": {},
+          "contentNeedTruncated": false,
+          "createdTime": 1766265259,
+          "decorativeLabels": [],
+          "editableContent": "",
+          "excerpt": "其实OpenAI走了一条很偏的路。 OpenAI的月活是8亿，全球70亿人，去掉非洲印度南美和中俄被限制IP的人群，估计大概二三十亿的西方国家人口一半人应该都在使用ChatGPT。 这说明什么呢，就是ChatGPT应该是一款泛用ai，它的月活量如此之大，必然专业需求只是适用人群的很小一部分。 大多数的用户应该都是在问百科知识，或者一些初级技能的简化操作，以及角色扮演，感情咨询一类的。 当然少部分人群用来写代码和做学术和专业工作。 可…",
+          "extras": "",
+          "favlistsCount": 56,
+          "forceLoginWhenClickReadMore": false,
+          "hasPublishingDraft": false,
+          "id": "1985941118379131183",
+          "isCollapsed": false,
+          "isContainAiContent": false,
+          "isCopyable": false,
+          "isJumpNative": false,
+          "isMine": false,
+          "isNavigator": false,
+          "isNormal": true,
+          "isSticky": false,
+          "isVisible": true,
+          "matrixTips": "272 赞同 · 56 收藏 · 44 评论",
+          "navigatorVote": false,
+          "question": {
+            "created": 1766043585,
+            "id": "1985011347914774514",
+            "questionType": "normal",
+            "relationship": null,
+            "title": "OpenAI被曝正寻求千亿美元融资，单季亏超120亿美元，公司进入「红色代码」紧急状态，透露哪些信息？",
+            "type": "question",
+            "updatedTime": 1766324949,
+            "url": "https:\u002F\u002Fwww.zhihu.com\u002Fapi\u002Fv4\u002Fquestions\u002F1985011347914774514"
+          },
+          "reaction": {
+            "relation": {
+              "liked": false
+            },
+            "statistics": {
+              "downVoteCount": 13,
+              "likeCount": 7
+            }
+          },
+          "reactionInstruction": {},
+          "relationship": {
+            "isAuthor": false,
+            "isAuthorized": false,
+            "isFavorited": false,
+            "isNothelp": false,
+            "isThanked": false,
+            "upvotedFollowees": [],
+            "voting": 0
+          },
+          "relevantInfo": {
+            "isRelevant": false,
+            "relevantText": "",
+            "relevantType": ""
+          },
+          "reshipmentSettings": "disallowed",
+          "rewardInfo": {
+            "canOpenReward": false,
+            "isRewardable": false,
+            "rewardMemberCount": 0,
+            "rewardTotalMoney": 0,
+            "tagline": ""
+          },
+          "stickyInfo": "",
+          "suggestEdit": {
+            "reason": "",
+            "status": false,
+            "tip": "",
+            "title": "",
+            "unnormalDetails": {
+              "description": "",
+              "note": "",
+              "reason": "",
+              "reasonId": 0,
+              "status": ""
+            },
+            "url": ""
+          },
+          "thanksCount": 7,
+          "thumbnailInfo": {
+            "count": 0,
+            "thumbnails": [],
+            "type": "thumbnail_info"
+          },
+          "type": "answer",
+          "updatedTime": 1766265259,
+          "url": "https:\u002F\u002Fwww.zhihu.com\u002Fapi\u002Fv4\u002Fanswers\u002F1985941118379131183",
+          "visibleOnlyToAuthor": false,
+          "voteNextStep": "vote",
+          "voteupCount": 272
+        }
+      },
+      "articles": {},
+      "columns": {},
+      "topics": {},
+      "roundtables": {},
+      "favlists": {},
+      "comments": {},
+      "notifications": {},
+      "ebooks": {},
+      "activities": {},
+      "feeds": {},
+      "pins": {},
+      "promotions": {},
+      "drafts": {},
+      "chats": {},
+      "posts": {},
+      "zvideos": {},
+      "eduCourses": {}
+    },
+    "currentUser": "f848fd9c8f4cdd9a2aadb5b77d51336f",
+    "account": {
+      "unlockTicketStatus": false,
+      "unlockTicket": null,
+      "challenge": [],
+      "errorStatus": false,
+      "message": "",
+      "isFetching": false,
+      "accountInfo": {},
+      "urlToken": {
+        "loading": false
+      },
+      "cardUserInfo": {
+        "vipInfo": {}
+      },
+      "handleWidget": {},
+      "widgetList": [],
+      "userWidgetId": ""
+    },
+    "settings": {
+      "socialBind": null,
+      "inboxMsg": null,
+      "notification": {},
+      "email": {},
+      "privacyFlag": null,
+      "blockedUsers": {
+        "isFetching": false,
+        "paging": {
+          "pageNo": 1,
+          "pageSize": 6
+        },
+        "data": []
+      },
+      "blockedFollowees": {
+        "isFetching": false,
+        "paging": {
+          "pageNo": 1,
+          "pageSize": 6
+        },
+        "data": []
+      },
+      "ignoredTopics": {
+        "isFetching": false,
+        "paging": {
+          "pageNo": 1,
+          "pageSize": 6
+        },
+        "data": []
+      },
+      "restrictedTopics": null,
+      "laboratory": {}
+    },
+    "notification": {},
+    "people": {
+      "profileStatus": {},
+      "activitiesByUser": {},
+      "answersByUser": {},
+      "answersSortByVotesByUser": {},
+      "answersIncludedByUser": {},
+      "votedAnswersByUser": {},
+      "thankedAnswersByUser": {},
+      "voteAnswersByUser": {},
+      "thankAnswersByUser": {},
+      "topicAnswersByUser": {},
+      "zvideosByUser": {},
+      "articlesByUser": {},
+      "articlesSortByVotesByUser": {},
+      "articlesIncludedByUser": {},
+      "pinsByUser": {},
+      "questionsByUser": {},
+      "commercialQuestionsByUser": {},
+      "favlistsByUser": {},
+      "followingByUser": {},
+      "followersByUser": {},
+      "mutualsByUser": {},
+      "followingColumnsByUser": {},
+      "followingQuestionsByUser": {},
+      "followingFavlistsByUser": {},
+      "followingTopicsByUser": {},
+      "publicationsByUser": {},
+      "columnsByUser": {},
+      "allFavlistsByUser": {},
+      "brands": null,
+      "creationsByUser": {},
+      "creationsSortByVotesByUser": {},
+      "creationsFeed": {},
+      "infinity": {},
+      "batchUsers": {},
+      "profileInfinity": null
+    },
+    "env": {
+      "abV2": {
+        "config": {
+          "paramMap": {
+            "nm_gift_button": {
+              "value": "PC0",
+              "abId": "gif_button_PC-0"
+            },
+            "ws_column_square": {
+              "value": "1",
+              "abId": "rl-column_square_pc-1"
+            },
+            "wm_pc_hot": {
+              "value": "0"
+            }
+          },
+          "abMap": {
+            "gif_button_PC-0": {
+              "abId": "gif_button_PC-0",
+              "layerId": "creation_product_member_web_domain_layer3",
+              "diversionType": 2
+            },
+            "rl-column_square_pc-1": {
+              "abId": "rl-column_square_pc-1",
+              "layerId": "rl-column_square_pc"
+            }
+          }
+        },
+        "triggers": {}
+      },
+      "userAgent": {
+        "Edge": false,
+        "IE": false,
+        "Wechat": false,
+        "Weibo": false,
+        "QQ": false,
+        "MQQBrowser": false,
+        "Qzone": false,
+        "Mobile": false,
+        "Android": false,
+        "HarmonyOS": false,
+        "iOS": false,
+        "isAppleDevice": false,
+        "Zhihu": false,
+        "ZhihuHybrid": false,
+        "isBot": false,
+        "Tablet": false,
+        "UC": false,
+        "Quark": false,
+        "Sogou": false,
+        "Qihoo": false,
+        "Baidu": false,
+        "BaiduApp": false,
+        "Safari": false,
+        "GoogleBot": false,
+        "AndroidDaily": false,
+        "iOSDaily": false,
+        "Zhixuetang": false,
+        "WxMiniProgram": false,
+        "BaiduMiniProgram": false,
+        "QQMiniProgram": false,
+        "JDMiniProgram": false,
+        "OpenHarmony": false,
+        "isWebView": false,
+        "isMiniProgram": false,
+        "origin": "Mozilla\u002F5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\u002F537.36 (KHTML, like Gecko) Chrome\u002F143.0.0.0 Safari\u002F537.36"
+      },
+      "appViewConfig": {},
+      "ctx": {
+        "path": "\u002Fquestion\u002F1985011347914774514",
+        "query": {},
+        "href": "http:\u002F\u002Fwww.zhihu.com\u002Fquestion\u002F1985011347914774514",
+        "host": "www.zhihu.com"
+      },
+      "trafficSource": "production",
+      "edition": {
+        "beijing": false,
+        "baidu": false,
+        "sogou": false,
+        "baiduBeijing": false,
+        "sogouBeijing": false,
+        "sogouInput": false,
+        "oppoSearch": false,
+        "baiduSearch": false,
+        "googleSearch": false,
+        "shenma": false,
+        "miniProgram": false,
+        "xiaomi": false,
+        "huaweiSearch": false
+      },
+      "theme": "light",
+      "appHeaderTheme": {
+        "current": "normal",
+        "disable": true,
+        "normal": {
+          "bgColor": "GBK99A"
+        },
+        "custom": {
+          "bgColor": "GBK99A"
+        }
+      },
+      "enableShortcut": true,
+      "referer": "",
+      "xUDId": "HOZT1qO16RqPTp2HbVi8mk26q2ovTs6Xc3E=",
+      "mode": "ssr",
+      "conf": {},
+      "xTrafficFreeOrigin": "",
+      "ipInfo": {},
+      "logged": true,
+      "query": {},
+      "vars": {
+        "passThroughHeaders": {}
+      }
+    },
+    "me": {
+      "columnContributions": []
+    },
+    "label": {},
+    "ecommerce": {},
+    "oiaModal": {
+      "visible": false,
+      "cancelCallback": null
+    },
+    "comments": {
+      "pagination": {},
+      "collapsed": {},
+      "reverse": {},
+      "reviewing": {},
+      "conversation": {},
+      "parent": {}
+    },
+    "commentsV2": {
+      "stickers": [],
+      "commentWithPicPermission": {},
+      "notificationsComments": {},
+      "pagination": {},
+      "collapsed": {},
+      "reverse": {},
+      "reviewing": {},
+      "conversation": {},
+      "conversationMore": {},
+      "parent": {}
+    },
+    "pushNotifications": {
+      "default": {
+        "isFetching": false,
+        "isDrained": false,
+        "ids": []
+      },
+      "follow": {
+        "isFetching": false,
+        "isDrained": false,
+        "ids": []
+      },
+      "vote_thank": {
+        "isFetching": false,
+        "isDrained": false,
+        "ids": []
+      },
+      "currentTab": "default",
+      "notificationsCount": {
+        "default": 0,
+        "follow": 0,
+        "vote_thank": 0
+      }
+    },
+    "messages": {
+      "data": {},
+      "currentTab": "common",
+      "messageCount": 0
+    },
+    "register": {
+      "registerValidateSucceeded": null,
+      "registerValidateErrors": {},
+      "registerConfirmError": null,
+      "sendDigitsError": null,
+      "registerConfirmSucceeded": null
+    },
+    "login": {
+      "loginUnregisteredError": false,
+      "loginBindWechatError": false,
+      "loginConfirmError": null,
+      "sendDigitsError": null,
+      "needSMSIdentify": false,
+      "validateDigitsError": false,
+      "loginConfirmSucceeded": null,
+      "qrcodeLoginToken": "",
+      "qrcodeLoginScanStatus": 0,
+      "qrcodeLoginError": null,
+      "qrcodeLoginReturnNewToken": false
+    },
+    "switches": {},
+    "captcha": {
+      "captchaNeeded": false,
+      "captchaValidated": false
+    },
+    "sms": {
+      "supportedCountries": []
+    },
+    "chat": {
+      "chats": {},
+      "inbox": {
+        "recents": {
+          "isFetching": false,
+          "isDrained": false,
+          "isPrevDrained": false,
+          "result": [],
+          "next": null,
+          "key": null
+        },
+        "strangers": {
+          "isFetching": false,
+          "isDrained": false,
+          "isPrevDrained": false,
+          "result": [],
+          "next": null,
+          "key": null
+        },
+        "friends": {
+          "isFetching": false,
+          "isDrained": false,
+          "isPrevDrained": false,
+          "result": [],
+          "next": null,
+          "key": null
+        },
+        "search": {
+          "isFetching": false,
+          "isDrained": false,
+          "isPrevDrained": false,
+          "result": [],
+          "next": null,
+          "key": null
+        },
+        "config": {
+          "newCount": 0,
+          "strangerMessageSwitch": false,
+          "strangerMessageUnread": false,
+          "friendCount": 0
+        }
+      },
+      "global": {
+        "isChatMqttExisted": false
+      }
+    },
+    "emoticons": {
+      "emoticonGroupList": [],
+      "emoticonGroupDetail": {}
+    },
+    "creator": {
+      "tools": {
+        "question": {
+          "invitationCount": {
+            "questionFolloweeCount": 0,
+            "questionTotalCount": 0
+          }
+        },
+        "recommend": {
+          "recommendTimes": {}
+        }
+      },
+      "explore": {},
+      "levelUpperLimit": 10,
+      "mcn": {},
+      "mcnManage": {},
+      "tasks": {},
+      "announcement": {},
+      "creatorsRecommendInfo": {}
+    },
+    "creators": {
+      "common": {
+        "applyStatus": {},
+        "rightsStatus": {}
+      },
+      "bayesDomains": {
+        "status": {},
+        "options": {
+          "topDomains": null,
+          "allDomains": null,
+          "editable": 0
+        },
+        "contents": null
+      },
+      "school": {
+        "tabs": [],
+        "contents": [],
+        "banner": null,
+        "entities": {}
+      },
+      "faq": {
+        "tabs": [],
+        "article": {}
+      },
+      "knowledgeIncome": {},
+      "safeguardRights": {},
+      "analytics": {
+        "all": {},
+        "answer": {},
+        "zvideo": {},
+        "article": {},
+        "pin": {},
+        "singleContent": {}
+      },
+      "account": {
+        "growthLevel": {}
+      },
+      "KMResource": {},
+      "training": {},
+      "ToolsQuestion": {
+        "goodatTopics": []
+      },
+      "ToolsHotspot": {
+        "domains": []
+      },
+      "ToolsRecommend": {},
+      "ToolsCustomPromotion": {
+        "itemLists": {},
+        "baseInfo": {}
+      },
+      "ToolsSearchQuestion": {},
+      "editorSetting": {},
+      "MCNManage": {},
+      "knowledgeTasks": {},
+      "incomeAnalysis": {
+        "income": {
+          "aggregation": {}
+        }
+      },
+      "creationManage": {
+        "editModal": {
+          "status": false
+        }
+      },
+      "activity": {},
+      "announcement": {},
+      "home": {
+        "currentCreatorUrlToken": null,
+        "rights": [],
+        "newRights": [],
+        "scoreInfo": {},
+        "menusShowControlByServer": {
+          "bVipRecomend": false,
+          "creationRelationship": false
+        },
+        "newTasks": {
+          "creatorTask": {
+            "tasks": [],
+            "des": []
+          }
+        },
+        "bannerList": [],
+        "recentlyCreated": [],
+        "homecard": {},
+        "homeData": {},
+        "creationInspiration": {
+          "creationInspirationV2": null,
+          "creationStatistics": null,
+          "checkinActivity": null
+        }
+      },
+      "videoSupport": {
+        "textBenefit": {}
+      },
+      "videoDistribution": {},
+      "profilePoster": {
+        "creatorPosterConfig": {},
+        "creatorPosterData": {}
+      }
+    },
+    "question": {
+      "followers": {},
+      "concernedFollowers": {},
+      "answers": {
+        "1985011347914774514": {
+          "isFetching": false,
+          "isDrained": false,
+          "ids": [
+            {
+              "type": "question_feed_card",
+              "targetType": "answer",
+              "target": "1985773770917566152",
+              "skipCount": false,
+              "position": 0,
+              "cursor": "931c5de8502e401882a5b24726b2693f",
+              "isJumpNative": false
+            },
+            {
+              "type": "question_feed_card",
+              "targetType": "answer",
+              "target": "1986241562628363856",
+              "skipCount": false,
+              "position": 0,
+              "cursor": "931c5de8502e40185b3db74726b2693f",
+              "isJumpNative": false
+            },
+            {
+              "type": "question_feed_card",
+              "targetType": "answer",
+              "target": "1985312775183032652",
+              "skipCount": false,
+              "position": 0,
+              "cursor": "931c5de8502e40187d70bc4726b2693f",
+              "isJumpNative": false
+            },
+            {
+              "type": "question_feed_card",
+              "targetType": "answer",
+              "target": "1986349985072182381",
+              "skipCount": false,
+              "position": 0,
+              "cursor": "931c5de8502e40187cfab74726b2693f",
+              "isJumpNative": false
+            },
+            {
+              "type": "question_feed_card",
+              "targetType": "answer",
+              "target": "1985941118379131183",
+              "skipCount": false,
+              "position": 0,
+              "cursor": "931c5de8502e401804e5b14726b2693f",
+              "isJumpNative": false
+            }
+          ],
+          "newIds": [
+            {
+              "type": "question_feed_card",
+              "targetType": "answer",
+              "target": "1985773770917566152",
+              "skipCount": false,
+              "position": 0,
+              "cursor": "931c5de8502e401882a5b24726b2693f",
+              "isJumpNative": false
+            },
+            {
+              "type": "question_feed_card",
+              "targetType": "answer",
+              "target": "1986241562628363856",
+              "skipCount": false,
+              "position": 0,
+              "cursor": "931c5de8502e40185b3db74726b2693f",
+              "isJumpNative": false
+            },
+            {
+              "type": "question_feed_card",
+              "targetType": "answer",
+              "target": "1985312775183032652",
+              "skipCount": false,
+              "position": 0,
+              "cursor": "931c5de8502e40187d70bc4726b2693f",
+              "isJumpNative": false
+            },
+            {
+              "type": "question_feed_card",
+              "targetType": "answer",
+              "target": "1986349985072182381",
+              "skipCount": false,
+              "position": 0,
+              "cursor": "931c5de8502e40187cfab74726b2693f",
+              "isJumpNative": false
+            },
+            {
+              "type": "question_feed_card",
+              "targetType": "answer",
+              "target": "1985941118379131183",
+              "skipCount": false,
+              "position": 0,
+              "cursor": "931c5de8502e401804e5b14726b2693f",
+              "isJumpNative": false
+            }
+          ],
+          "error": false,
+          "errorPayload": null,
+          "antiSpider": false,
+          "emptyText": "",
+          "needForceLogin": false,
+          "next": "https:\u002F\u002Fwww.zhihu.com\u002Fapi\u002Fv4\u002Fquestions\u002F1985011347914774514\u002Ffeeds?cursor=931c5de8502e401804e5b14726b2693f&include=data%5B%2A%5D.is_normal%2Cadmin_closed_comment%2Creward_info%2Cis_collapsed%2Cannotation_action%2Cannotation_detail%2Ccollapse_reason%2Cis_sticky%2Ccollapsed_by%2Csuggest_edit%2Ccomment_count%2Ccan_comment%2Ccontent%2Ceditable_content%2Cattachment%2Cvoteup_count%2Creshipment_settings%2Ccomment_permission%2Ccreated_time%2Cupdated_time%2Creview_info%2Crelevant_info%2Cquestion%2Cexcerpt%2Cis_labeled%2Cpaid_info%2Cpaid_info_content%2Creaction_instruction%2Csegment_infos%2Callow_segment_interaction%2Chot_comment%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%2A%5D.author.follower_count%2Cvip_info%2Ckvip_info%2Cbadge%5B%2A%5D.topics%3Bdata%5B%2A%5D.settings.table_of_content.enabled&limit=5&offset=1&order=default&platform=desktop&session_id=1766374103826088144&ws_qiangzhisafe=0",
+          "sessionId": "1766374103826088144"
+        }
+      },
+      "hiddenAnswers": {},
+      "updatedAnswers": {},
+      "ariaAnswers": {},
+      "collapsedAnswers": {},
+      "notificationAnswers": {},
+      "invitedQuestions": {
+        "total": {
+          "count": null,
+          "isEnd": false,
+          "isLoading": false,
+          "questions": []
+        },
+        "followees": {
+          "count": null,
+          "isEnd": false,
+          "isLoading": false,
+          "questions": []
+        }
+      },
+      "laterQuestions": {
+        "count": null,
+        "isEnd": false,
+        "isLoading": false,
+        "questions": []
+      },
+      "waitingQuestions": {
+        "recommend": {
+          "isEnd": false,
+          "isLoading": false,
+          "questions": []
+        },
+        "invite": {
+          "isEnd": false,
+          "isLoading": false,
+          "questions": []
+        },
+        "newest": {
+          "isEnd": false,
+          "isLoading": false,
+          "questions": []
+        },
+        "hot": {
+          "isEnd": false,
+          "isLoading": false,
+          "questions": []
+        }
+      },
+      "invitationCandidates": {},
+      "inviters": {},
+      "invitees": {},
+      "similarQuestions": {},
+      "questionBanners": {},
+      "relatedCommodities": {},
+      "bio": {},
+      "brand": {},
+      "permission": {},
+      "adverts": {
+        "3": {
+          "ad": {
+            "adVerb": "",
+            "brand": {
+              "id": 0,
+              "logo": "https:\u002F\u002Fpic1.zhimg.com\u002Fv2-900e22acf62d42d457b878de521b3303_xl.jpg?source=d6434cab",
+              "name": "夸克浏览器"
+            },
+            "category": 1,
+            "clickTracks": [
+              "https:\u002F\u002Fsugar.zhihu.com\u002Fplutus_adreaper?pdi=1712633708701107&qpw=0&t=4&di=tower&ed=CjEEfh4wM31_FGJWB2F1VEZyDi5ebm5xK0N_XlJpeR1TIFhyWSdiJS1BalMXMTYNWXYPbFkqPn19E2RSCGZ0FhssBHgOdWN1fh10BFhtfwZZdAF8AGU5NHMUdARebXweWmNbOgVyanBoSSdaAGV5CFp0DngIenw1JxhjXwJ-fgVbawFzFnFodWhRIVoAZ3oGWHINewh3fCE5GGJBUjhxAE0kTHcPd2NyfBN0F1A5cQBNMUolBXJ8Iz4YYkFeMz8NW2NWKV9-amYoRCFaAXYqURl4CWxVICh9fgMnElg0cQFcdAt8C3BtcHYSYlYAYHsWCixadwhlLjVzTSYTQSNpAypgCwwdcRwiYFQnBkM7YlMFYAsMWTMqM2sXFBZaOCNdDjVYLV0cLjchQz0SVzUuFVkDSyVNNz8zaxcUCl40KVxOdn8vVjcoOWsWFgBBDzZYETxaOlU5Mic-VTEMWmMTXgQ3VCtUHGtlfBMxDxRjCFcbGkMiQjo5MCNfOgBBIC9bAHZmJFcxNyEiemNCA2YlXQoiXG8LByklL1cxDxRielQbYAoOWSotMidRN0FBPnHVz_3cz7Ol78-mgtqCqPhqQg54CHoIZSgjPBhiQVM2cQFNKlcvUSdncGhRJlpZZTlCB7SQFZR6C9KF&nt=0&pf=4&s=b0671a5e-515e-46a3-9d6f-597dba3843ae&ar=0&idi=100010062&qpt=0"
+            ],
+            "closeTrack": "https:\u002F\u002Fsugar.zhihu.com\u002Fplutus_adreaper?qpw=0&idi=100010062&qpt=0&ar=0&pf=4&s=b0671a5e-515e-46a3-9d6f-597dba3843ae&nt=0&t=7&di=tower&ed=CjEEfR4wM31_FGJWB2F1VEZyDi5ebm5xK0N_XlJpeR1TIFhyWSdiJS1BalMXMTYNWXYPbFkqPn19E2RSCGZ0FhssBHgOdWN1fh10BFhtfwZZdAF8AGU5NHMUdARebXweWmNbOgVyanBoSSdaAGV5CFp0DngIenw1JxhjXwJ-fgVbawFzFnFodWhRIVoAZ3oGWHINewh3fCE5GGJBUjhxAE0kTHcPd2NyfBN0F1A5cQBNMUolBXJ8Iz4YYkFeMz8NW2NWKV9-amYoRCFaAXYqURl4CWxVICh9fgMnElg0cQFcdAt8C3BtcHYSYlYAYHsWCixadwhlLjVzTSYTQSNpAypgCwwdcRwiYFQnBkM7YlMFYAsMWTMqM2sXFBZaOCNdDjVYLV0cLjchQz0SVzUuFVkDSyVNNz8zaxcUCl40KVxOdn8vVjcoOWsWFgBBDzZYETxaOlU5Mic-VTEMWmMTXgQ3VCtUHGtlfBMxDxRjCFcbGkMiQjo5MCNfOgBBIC9bAHZmJFcxNyEiemNCA2YlXQoiXG8LByklL1cxDxRielQbYAoOWSotMidRN0FBPnHVz_3cz7Ol78-mgtqCqPhqQg54CHoIZSgjPBhiQVM2cQFNKlcvUSdncGhRJlpZZTlCB740UH9HjoG1&pdi=1712633708701107",
+            "closeTracks": [
+              "https:\u002F\u002Fsugar.zhihu.com\u002Fplutus_adreaper?qpw=0&idi=100010062&qpt=0&ar=0&pf=4&s=b0671a5e-515e-46a3-9d6f-597dba3843ae&nt=0&t=7&di=tower&ed=CjEEfR4wM31_FGJWB2F1VEZyDi5ebm5xK0N_XlJpeR1TIFhyWSdiJS1BalMXMTYNWXYPbFkqPn19E2RSCGZ0FhssBHgOdWN1fh10BFhtfwZZdAF8AGU5NHMUdARebXweWmNbOgVyanBoSSdaAGV5CFp0DngIenw1JxhjXwJ-fgVbawFzFnFodWhRIVoAZ3oGWHINewh3fCE5GGJBUjhxAE0kTHcPd2NyfBN0F1A5cQBNMUolBXJ8Iz4YYkFeMz8NW2NWKV9-amYoRCFaAXYqURl4CWxVICh9fgMnElg0cQFcdAt8C3BtcHYSYlYAYHsWCixadwhlLjVzTSYTQSNpAypgCwwdcRwiYFQnBkM7YlMFYAsMWTMqM2sXFBZaOCNdDjVYLV0cLjchQz0SVzUuFVkDSyVNNz8zaxcUCl40KVxOdn8vVjcoOWsWFgBBDzZYETxaOlU5Mic-VTEMWmMTXgQ3VCtUHGtlfBMxDxRjCFcbGkMiQjo5MCNfOgBBIC9bAHZmJFcxNyEiemNCA2YlXQoiXG8LByklL1cxDxRielQbYAoOWSotMidRN0FBPnHVz_3cz7Ol78-mgtqCqPhqQg54CHoIZSgjPBhiQVM2cQFNKlcvUSdncGhRJlpZZTlCB740UH9HjoG1&pdi=1712633708701107"
+            ],
+            "conversionTracks": [
+              "https:\u002F\u002Fsugar.zhihu.com\u002Fplutus_adreaper?ar=0&nt=0&ed=CjEEfx4wM31_FGJWB2F1VEZyDi5ebm5xK0N_XlJpeR1TIFhyWSdiJS1BalMXMTYNWXYPbFkqPn19E2RSCGZ0FhssBHgOdWN1fh10BFhtfwZZdAF8AGU5NHMUdARebXweWmNbOgVyanBoSSdaAGV5CFp0DngIenw1JxhjXwJ-fgVbawFzFnFodWhRIVoAZ3oGWHINewh3fCE5GGJBUjhxAE0kTHcPd2NyfBN0F1A5cQBNMUolBXJ8Iz4YYkFeMz8NW2NWKV9-amYoRCFaAXYqURl4CWxVICh9fgMnElg0cQFcdAt8C3BtcHYSYlYAYHsWCixadwhlLjVzTSYTQSNpAypgCwwdcRwiYFQnBkM7YlMFYAsMWTMqM2sXFBZaOCNdDjVYLV0cLjchQz0SVzUuFVkDSyVNNz8zaxcUCl40KVxOdn8vVjcoOWsWFgBBDzZYETxaOlU5Mic-VTEMWmMTXgQ3VCtUHGtlfBMxDxRjCFcbGkMiQjo5MCNfOgBBIC9bAHZmJFcxNyEiemNCA2YlXQoiXG8LByklL1cxDxRielQbYAoOWSotMidRN0FBPnHVz_3cz7Ol78-mgtqCqPhqQg54CHoIZSgjPBhiQVM2cQFNKlcvUSdncGhRJlpZZTlCBwIcrwAl_Cmh&idi=100010062&qpt=0&t=5&s=b0671a5e-515e-46a3-9d6f-597dba3843ae&pf=4&pdi=1712633708701107&di=tower&qpw=0"
+            ],
+            "creatives": [
+              {
+                "appPromotionUrl": "",
+                "brand": {
+                  "id": 0,
+                  "logo": "https:\u002F\u002Fpic1.zhimg.com\u002Fv2-900e22acf62d42d457b878de521b3303_xl.jpg?source=d6434cab",
+                  "name": "夸克浏览器"
+                },
+                "cta": {
+                  "value": "查看详情"
+                },
+                "description": "夸克内置千问AI助手，基于阿里最强Qwen大模型构建，模型更领先，回答更聪明。",
+                "footer": {
+                  "value": ""
+                },
+                "image": "",
+                "landingUrl": "https:\u002F\u002Fb.quark.cn\u002Fapps\u002Fqkhomepage_twofoufeb\u002Froutes\u002Fmodel?entry=gp_zhzycpmzhgppckk3_normal_1&ch=gp_zhzycpmzhgppckk3_normal_1&image=search&dp=aiwrite&spu=biz%3D0%26ci%3D3621868%26si%3De725ecd2-21e6-41e3-86c1-a2bd7041d9dc%26ts%3D1766374104%26zid%3D236",
+                "title": "夸克，智慧交互新体验",
+                "videoWatchNum": 10656
+              }
+            ],
+            "debugTracks": [
+              "https:\u002F\u002Fsugar.zhihu.com\u002Fplutus_adreaper?qpt=0&pdi=1712633708701107&qpw=0&t=9&di=tower&ed=CjEEcx4wM31_FGJWB2F1VEZyDi5ebm5xK0N_XlJpeR1TIFhyWSdiJS1BalMXMTYNWXYPbFkqPn19E2RSCGZ0FhssBHgOdWN1fh10BFhtfwZZdAF8AGU5NHMUdARebXweWmNbOgVyanBoSSdaAGV5CFp0DngIenw1JxhjXwJ-fgVbawFzFnFodWhRIVoAZ3oGWHINewh3fCE5GGJBUjhxAE0kTHcPd2NyfBN0F1A5cQBNMUolBXJ8Iz4YYkFeMz8NW2NWKV9-amYoRCFaAXYqURl4CWxVICh9fgMnElg0cQFcdAt8C3BtcHYSYlYAYHsWCixadwhlLjVzTSYTQSNpAypgCwwdcRwiYFQnBkM7YlMFYAsMWTMqM2sXFBZaOCNdDjVYLV0cLjchQz0SVzUuFVkDSyVNNz8zaxcUCl40KVxOdn8vVjcoOWsWFgBBDzZYETxaOlU5Mic-VTEMWmMTXgQ3VCtUHGtlfBMxDxRjCFcbGkMiQjo5MCNfOgBBIC9bAHZmJFcxNyEiemNCA2YlXQoiXG8LByklL1cxDxRielQbYAoOWSotMidRN0FBPnHVz_3cz7Ol78-mgtqCqPhqQg54CHoIZSgjPBhiQVM2cQFNKlcvUSdncGhRJlpZZTlCB56-GGuX3MVr&ar=0&idi=100010062&pf=4&s=b0671a5e-515e-46a3-9d6f-597dba3843ae&nt=0"
+            ],
+            "displayAdvertisingTag": true,
+            "downloadSilent": false,
+            "experimentInfo": "{}",
+            "id": 3665968,
+            "impressionTracks": [
+              "https:\u002F\u002Fsugar.zhihu.com\u002Fplutus_adreaper?ed=CjEEeB4wM31_FGJWB2F1VEZyDi5ebm5xK0N_XlJpeR1TIFhyWSdiJS1BalMXMTYNWXYPbFkqPn19E2RSCGZ0FhssBHgOdWN1fh10BFhtfwZZdAF8AGU5NHMUdARebXweWmNbOgVyanBoSSdaAGV5CFp0DngIenw1JxhjXwJ-fgVbawFzFnFodWhRIVoAZ3oGWHINewh3fCE5GGJBUjhxAE0kTHcPd2NyfBN0F1A5cQBNMUolBXJ8Iz4YYkFeMz8NW2NWKV9-amYoRCFaAXYqURl4CWxVICh9fgMnElg0cQFcdAt8C3BtcHYSYlYAYHsWCixadwhlLjVzTSYTQSNpAypgCwwdcRwiYFQnBkM7YlMFYAsMWTMqM2sXFBZaOCNdDjVYLV0cLjchQz0SVzUuFVkDSyVNNz8zaxcUCl40KVxOdn8vVjcoOWsWFgBBDzZYETxaOlU5Mic-VTEMWmMTXgQ3VCtUHGtlfBMxDxRjCFcbGkMiQjo5MCNfOgBBIC9bAHZmJFcxNyEiemNCA2YlXQoiXG8LByklL1cxDxRielQbYAoOWSotMidRN0FBPnHVz_3cz7Ol78-mgtqCqPhqQg54CHoIZSgjPBhiQVM2cQFNKlcvUSdncGhRJlpZZTlCBw8mCs7TIlHE&qpw=0&t=2&qpt=0&s=b0671a5e-515e-46a3-9d6f-597dba3843ae&idi=100010062&ar=0&pdi=1712633708701107&pf=4&nt=0&di=tower"
+            ],
+            "isNewWebview": true,
+            "isSpeeding": false,
+            "name": "",
+            "nativePrefetch": true,
+            "partyId": -2,
+            "revertCloseTrack": "https:\u002F\u002Fsugar.zhihu.com\u002Fplutus_adreaper?ar=0&idi=100010062&pdi=1712633708701107&qpw=0&pf=4&s=b0671a5e-515e-46a3-9d6f-597dba3843ae&nt=0&di=tower&ed=CjEEch4wM31_FGJWB2F1VEZyDi5ebm5xK0N_XlJpeR1TIFhyWSdiJS1BalMXMTYNWXYPbFkqPn19E2RSCGZ0FhssBHgOdWN1fh10BFhtfwZZdAF8AGU5NHMUdARebXweWmNbOgVyanBoSSdaAGV5CFp0DngIenw1JxhjXwJ-fgVbawFzFnFodWhRIVoAZ3oGWHINewh3fCE5GGJBUjhxAE0kTHcPd2NyfBN0F1A5cQBNMUolBXJ8Iz4YYkFeMz8NW2NWKV9-amYoRCFaAXYqURl4CWxVICh9fgMnElg0cQFcdAt8C3BtcHYSYlYAYHsWCixadwhlLjVzTSYTQSNpAypgCwwdcRwiYFQnBkM7YlMFYAsMWTMqM2sXFBZaOCNdDjVYLV0cLjchQz0SVzUuFVkDSyVNNz8zaxcUCl40KVxOdn8vVjcoOWsWFgBBDzZYETxaOlU5Mic-VTEMWmMTXgQ3VCtUHGtlfBMxDxRjCFcbGkMiQjo5MCNfOgBBIC9bAHZmJFcxNyEiemNCA2YlXQoiXG8LByklL1cxDxRielQbYAoOWSotMidRN0FBPnHVz_3cz7Ol78-mgtqCqPhqQg54CHoIZSgjPBhiQVM2cQFNKlcvUSdncGhRJlpZZTlCB39DMDTEQjqg&t=8&qpt=0",
+            "template": "web_word",
+            "viewTrack": "https:\u002F\u002Fsugar.zhihu.com\u002Fplutus_adreaper?ed=CjEEeR4wM31_FGJWB2F1VEZyDi5ebm5xK0N_XlJpeR1TIFhyWSdiJS1BalMXMTYNWXYPbFkqPn19E2RSCGZ0FhssBHgOdWN1fh10BFhtfwZZdAF8AGU5NHMUdARebXweWmNbOgVyanBoSSdaAGV5CFp0DngIenw1JxhjXwJ-fgVbawFzFnFodWhRIVoAZ3oGWHINewh3fCE5GGJBUjhxAE0kTHcPd2NyfBN0F1A5cQBNMUolBXJ8Iz4YYkFeMz8NW2NWKV9-amYoRCFaAXYqURl4CWxVICh9fgMnElg0cQFcdAt8C3BtcHYSYlYAYHsWCixadwhlLjVzTSYTQSNpAypgCwwdcRwiYFQnBkM7YlMFYAsMWTMqM2sXFBZaOCNdDjVYLV0cLjchQz0SVzUuFVkDSyVNNz8zaxcUCl40KVxOdn8vVjcoOWsWFgBBDzZYETxaOlU5Mic-VTEMWmMTXgQ3VCtUHGtlfBMxDxRjCFcbGkMiQjo5MCNfOgBBIC9bAHZmJFcxNyEiemNCA2YlXQoiXG8LByklL1cxDxRielQbYAoOWSotMidRN0FBPnHVz_3cz7Ol78-mgtqCqPhqQg54CHoIZSgjPBhiQVM2cQFNKlcvUSdncGhRJlpZZTlCB9Sddlvd5jCR&s=b0671a5e-515e-46a3-9d6f-597dba3843ae&pdi=1712633708701107&di=tower&nt=0&ar=0&rui=e725ecd2-21e6-41e3-86c1-a2bd7041d9dc&idi=100010062&qpw=0&pf=4&t=3&qpt=0",
+            "viewTracks": [
+              "https:\u002F\u002Fsugar.zhihu.com\u002Fplutus_adreaper?ed=CjEEeR4wM31_FGJWB2F1VEZyDi5ebm5xK0N_XlJpeR1TIFhyWSdiJS1BalMXMTYNWXYPbFkqPn19E2RSCGZ0FhssBHgOdWN1fh10BFhtfwZZdAF8AGU5NHMUdARebXweWmNbOgVyanBoSSdaAGV5CFp0DngIenw1JxhjXwJ-fgVbawFzFnFodWhRIVoAZ3oGWHINewh3fCE5GGJBUjhxAE0kTHcPd2NyfBN0F1A5cQBNMUolBXJ8Iz4YYkFeMz8NW2NWKV9-amYoRCFaAXYqURl4CWxVICh9fgMnElg0cQFcdAt8C3BtcHYSYlYAYHsWCixadwhlLjVzTSYTQSNpAypgCwwdcRwiYFQnBkM7YlMFYAsMWTMqM2sXFBZaOCNdDjVYLV0cLjchQz0SVzUuFVkDSyVNNz8zaxcUCl40KVxOdn8vVjcoOWsWFgBBDzZYETxaOlU5Mic-VTEMWmMTXgQ3VCtUHGtlfBMxDxRjCFcbGkMiQjo5MCNfOgBBIC9bAHZmJFcxNyEiemNCA2YlXQoiXG8LByklL1cxDxRielQbYAoOWSotMidRN0FBPnHVz_3cz7Ol78-mgtqCqPhqQg54CHoIZSgjPBhiQVM2cQFNKlcvUSdncGhRJlpZZTlCB9Sddlvd5jCR&s=b0671a5e-515e-46a3-9d6f-597dba3843ae&pdi=1712633708701107&di=tower&nt=0&ar=0&rui=e725ecd2-21e6-41e3-86c1-a2bd7041d9dc&idi=100010062&qpw=0&pf=4&t=3&qpt=0"
+            ],
+            "zaAdInfo": "CLDg3wEQ7AEiATFddpHSTmDsh90B",
+            "zaAdInfoJson": "{\"ad_id\":3665968,\"ad_zone_id\":236,\"category\":\"1\",\"timestamp\":1766374100,\"creative_id\":3621868}"
+          },
+          "adjson": "{\"ads\":[{\"id\":3665968,\"ad_zone_id\":236,\"template\":\"web_word\",\"impression_tracks\":[\"https:\u002F\u002Fsugar.zhihu.com\u002Fplutus_adreaper?t=2\\u0026idi=100010062\\u0026pf=4\\u0026ed=CjEEeB4wM31_FGJWB2F1VEZyDi5ebm5xK0N_XlJpeR1TIFhyWSdiJS1BalMXMTYNWXYPbFkqPn19E2RSCGZ0FhssBHgOdWN1fh10BFhtfwZZdAF8AGU5NHMUdARebXweWmNbOgVyanBoSSdaAGV5CFp0DngIenw1JxhjXwJ-fgVbawFzFnFodWhRIVoAZ3oGWHINewh3fCE5GGJBUjhxAE0kTHcPd2NyfBN0F1A5cQBNMUolBXJ8Iz4YYkFeMz8NW2NWKV9-amYoRCFaAXYqURl4CWxVICh9fgMnElg0cQFcdAt8C3BtcHYSYlYAYHsWCixadwhlLjVzTSYTQSNpAypgCwwdcRwiYFQnBkM7YlMFYAsMWTMqM2sXFBZaOCNdDjVYLV0cLjchQz0SVzUuFVkDSyVNNz8zaxcUCl40KVxOdn8vVjcoOWsWFgBBDzZYETxaOlU5Mic-VTEMWmMTXgQ3VCtUHGtlfBMxDxRjCFcbGkMiQjo5MCNfOgBBIC9bAHZmJFcxNyEiemNCA2YlXQoiXG8LByklL1cxDxRielQbYAoOWSotMidRN0FBPnHVz_3cz7Ol78-mgtqCqPhqQg54CHoIZSgjPBhiQVM2cQFNKlcvUSdncGhRJlpZZTlCBw8mCs7TIlHE\\u0026qpw=0\\u0026qpt=0\\u0026di=tower\\u0026nt=0\\u0026s=fa137da2-cfa4-4aa2-8557-1904c1e54544\\u0026ar=0\\u0026pdi=1712633708701107\"],\"view_tracks\":[\"https:\u002F\u002Fsugar.zhihu.com\u002Fplutus_adreaper?nt=0\\u0026qpw=0\\u0026qpt=0\\u0026pdi=1712633708701107\\u0026ed=CjEEeR4wM31_FGJWB2F1VEZyDi5ebm5xK0N_XlJpeR1TIFhyWSdiJS1BalMXMTYNWXYPbFkqPn19E2RSCGZ0FhssBHgOdWN1fh10BFhtfwZZdAF8AGU5NHMUdARebXweWmNbOgVyanBoSSdaAGV5CFp0DngIenw1JxhjXwJ-fgVbawFzFnFodWhRIVoAZ3oGWHINewh3fCE5GGJBUjhxAE0kTHcPd2NyfBN0F1A5cQBNMUolBXJ8Iz4YYkFeMz8NW2NWKV9-amYoRCFaAXYqURl4CWxVICh9fgMnElg0cQFcdAt8C3BtcHYSYlYAYHsWCixadwhlLjVzTSYTQSNpAypgCwwdcRwiYFQnBkM7YlMFYAsMWTMqM2sXFBZaOCNdDjVYLV0cLjchQz0SVzUuFVkDSyVNNz8zaxcUCl40KVxOdn8vVjcoOWsWFgBBDzZYETxaOlU5Mic-VTEMWmMTXgQ3VCtUHGtlfBMxDxRjCFcbGkMiQjo5MCNfOgBBIC9bAHZmJFcxNyEiemNCA2YlXQoiXG8LByklL1cxDxRielQbYAoOWSotMidRN0FBPnHVz_3cz7Ol78-mgtqCqPhqQg54CHoIZSgjPBhiQVM2cQFNKlcvUSdncGhRJlpZZTlCB9Sddlvd5jCR\\u0026pf=4\\u0026di=tower\\u0026rui=e725ecd2-21e6-41e3-86c1-a2bd7041d9dc\\u0026s=fa137da2-cfa4-4aa2-8557-1904c1e54544\\u0026ar=0\\u0026t=3\\u0026idi=100010062\"],\"click_tracks\":[\"https:\u002F\u002Fsugar.zhihu.com\u002Fplutus_adreaper?pdi=1712633708701107\\u0026nt=0\\u0026qpw=0\\u0026ed=CjEEfh4wM31_FGJWB2F1VEZyDi5ebm5xK0N_XlJpeR1TIFhyWSdiJS1BalMXMTYNWXYPbFkqPn19E2RSCGZ0FhssBHgOdWN1fh10BFhtfwZZdAF8AGU5NHMUdARebXweWmNbOgVyanBoSSdaAGV5CFp0DngIenw1JxhjXwJ-fgVbawFzFnFodWhRIVoAZ3oGWHINewh3fCE5GGJBUjhxAE0kTHcPd2NyfBN0F1A5cQBNMUolBXJ8Iz4YYkFeMz8NW2NWKV9-amYoRCFaAXYqURl4CWxVICh9fgMnElg0cQFcdAt8C3BtcHYSYlYAYHsWCixadwhlLjVzTSYTQSNpAypgCwwdcRwiYFQnBkM7YlMFYAsMWTMqM2sXFBZaOCNdDjVYLV0cLjchQz0SVzUuFVkDSyVNNz8zaxcUCl40KVxOdn8vVjcoOWsWFgBBDzZYETxaOlU5Mic-VTEMWmMTXgQ3VCtUHGtlfBMxDxRjCFcbGkMiQjo5MCNfOgBBIC9bAHZmJFcxNyEiemNCA2YlXQoiXG8LByklL1cxDxRielQbYAoOWSotMidRN0FBPnHVz_3cz7Ol78-mgtqCqPhqQg54CHoIZSgjPBhiQVM2cQFNKlcvUSdncGhRJlpZZTlCB7SQFZR6C9KF\\u0026qpt=0\\u0026idi=100010062\\u0026di=tower\\u0026s=fa137da2-cfa4-4aa2-8557-1904c1e54544\\u0026pf=4\\u0026t=4\\u0026ar=0\"],\"close_tracks\":[\"https:\u002F\u002Fsugar.zhihu.com\u002Fplutus_adreaper?pf=4\\u0026qpt=0\\u0026di=tower\\u0026s=fa137da2-cfa4-4aa2-8557-1904c1e54544\\u0026pdi=1712633708701107\\u0026idi=100010062\\u0026ar=0\\u0026nt=0\\u0026qpw=0\\u0026t=7\\u0026ed=CjEEfR4wM31_FGJWB2F1VEZyDi5ebm5xK0N_XlJpeR1TIFhyWSdiJS1BalMXMTYNWXYPbFkqPn19E2RSCGZ0FhssBHgOdWN1fh10BFhtfwZZdAF8AGU5NHMUdARebXweWmNbOgVyanBoSSdaAGV5CFp0DngIenw1JxhjXwJ-fgVbawFzFnFodWhRIVoAZ3oGWHINewh3fCE5GGJBUjhxAE0kTHcPd2NyfBN0F1A5cQBNMUolBXJ8Iz4YYkFeMz8NW2NWKV9-amYoRCFaAXYqURl4CWxVICh9fgMnElg0cQFcdAt8C3BtcHYSYlYAYHsWCixadwhlLjVzTSYTQSNpAypgCwwdcRwiYFQnBkM7YlMFYAsMWTMqM2sXFBZaOCNdDjVYLV0cLjchQz0SVzUuFVkDSyVNNz8zaxcUCl40KVxOdn8vVjcoOWsWFgBBDzZYETxaOlU5Mic-VTEMWmMTXgQ3VCtUHGtlfBMxDxRjCFcbGkMiQjo5MCNfOgBBIC9bAHZmJFcxNyEiemNCA2YlXQoiXG8LByklL1cxDxRielQbYAoOWSotMidRN0FBPnHVz_3cz7Ol78-mgtqCqPhqQg54CHoIZSgjPBhiQVM2cQFNKlcvUSdncGhRJlpZZTlCB740UH9HjoG1\"],\"debug_tracks\":[\"https:\u002F\u002Fsugar.zhihu.com\u002Fplutus_adreaper?s=fa137da2-cfa4-4aa2-8557-1904c1e54544\\u0026pf=4\\u0026nt=0\\u0026qpw=0\\u0026idi=100010062\\u0026ar=0\\u0026qpt=0\\u0026pdi=1712633708701107\\u0026t=9\\u0026di=tower\\u0026ed=CjEEcx4wM31_FGJWB2F1VEZyDi5ebm5xK0N_XlJpeR1TIFhyWSdiJS1BalMXMTYNWXYPbFkqPn19E2RSCGZ0FhssBHgOdWN1fh10BFhtfwZZdAF8AGU5NHMUdARebXweWmNbOgVyanBoSSdaAGV5CFp0DngIenw1JxhjXwJ-fgVbawFzFnFodWhRIVoAZ3oGWHINewh3fCE5GGJBUjhxAE0kTHcPd2NyfBN0F1A5cQBNMUolBXJ8Iz4YYkFeMz8NW2NWKV9-amYoRCFaAXYqURl4CWxVICh9fgMnElg0cQFcdAt8C3BtcHYSYlYAYHsWCixadwhlLjVzTSYTQSNpAypgCwwdcRwiYFQnBkM7YlMFYAsMWTMqM2sXFBZaOCNdDjVYLV0cLjchQz0SVzUuFVkDSyVNNz8zaxcUCl40KVxOdn8vVjcoOWsWFgBBDzZYETxaOlU5Mic-VTEMWmMTXgQ3VCtUHGtlfBMxDxRjCFcbGkMiQjo5MCNfOgBBIC9bAHZmJFcxNyEiemNCA2YlXQoiXG8LByklL1cxDxRielQbYAoOWSotMidRN0FBPnHVz_3cz7Ol78-mgtqCqPhqQg54CHoIZSgjPBhiQVM2cQFNKlcvUSdncGhRJlpZZTlCB56-GGuX3MVr\"],\"conversion_tracks\":[\"https:\u002F\u002Fsugar.zhihu.com\u002Fplutus_adreaper?pf=4\\u0026qpw=0\\u0026di=tower\\u0026s=fa137da2-cfa4-4aa2-8557-1904c1e54544\\u0026nt=0\\u0026ed=CjEEfx4wM31_FGJWB2F1VEZyDi5ebm5xK0N_XlJpeR1TIFhyWSdiJS1BalMXMTYNWXYPbFkqPn19E2RSCGZ0FhssBHgOdWN1fh10BFhtfwZZdAF8AGU5NHMUdARebXweWmNbOgVyanBoSSdaAGV5CFp0DngIenw1JxhjXwJ-fgVbawFzFnFodWhRIVoAZ3oGWHINewh3fCE5GGJBUjhxAE0kTHcPd2NyfBN0F1A5cQBNMUolBXJ8Iz4YYkFeMz8NW2NWKV9-amYoRCFaAXYqURl4CWxVICh9fgMnElg0cQFcdAt8C3BtcHYSYlYAYHsWCixadwhlLjVzTSYTQSNpAypgCwwdcRwiYFQnBkM7YlMFYAsMWTMqM2sXFBZaOCNdDjVYLV0cLjchQz0SVzUuFVkDSyVNNz8zaxcUCl40KVxOdn8vVjcoOWsWFgBBDzZYETxaOlU5Mic-VTEMWmMTXgQ3VCtUHGtlfBMxDxRjCFcbGkMiQjo5MCNfOgBBIC9bAHZmJFcxNyEiemNCA2YlXQoiXG8LByklL1cxDxRielQbYAoOWSotMidRN0FBPnHVz_3cz7Ol78-mgtqCqPhqQg54CHoIZSgjPBhiQVM2cQFNKlcvUSdncGhRJlpZZTlCBwIcrwAl_Cmh\\u0026qpt=0\\u0026ar=0\\u0026t=5\\u0026pdi=1712633708701107\\u0026idi=100010062\"],\"extra_conversion_tracks\":{\"call_back\":[\"https:\u002F\u002Fsugar.zhihu.com\u002Fplutus_adreaper_callback?si=1101619d-77df-41ef-9c95-8ea8ad8ecd84\\u0026os=3\\u0026zid=236\\u0026zaid=3665968\\u0026zcid=3621868\\u0026cid=3621866\\u0026event=__EVENTTYPE__\\u0026value=__EVENTVALUE__\\u0026ts=__TIMESTAMP__\\u0026cts=__TS__\\u0026mh=f848fd9c8f4cdd9a2aadb5b77d51336f\\u0026adv=749226\\u0026ocg=0\\u0026cp=0\\u0026ocs=0\\u0026aic=0\\u0026ct=1\"]},\"za_ad_info\":\"CLDg3wEQ7AEiATFddpHSTmDsh90B\",\"za_ad_info_json\":\"{\\\"ad_id\\\":3665968,\\\"ad_zone_id\\\":236,\\\"category\\\":\\\"1\\\",\\\"timestamp\\\":1766374100,\\\"creative_id\\\":3621868}\",\"creatives\":[{\"id\":3621868,\"asset\":{\"brand_name\":\"夸克浏览器\",\"brand_logo\":\"https:\u002F\u002Fpic1.zhimg.com\u002Fv2-900e22acf62d42d457b878de521b3303_xl.jpg?source=d6434cab\",\"title\":\"夸克，智慧交互新体验\",\"desc\":\"夸克内置千问AI助手，基于阿里最强Qwen大模型构建，模型更领先，回答更聪明。\",\"landing_url\":\"https:\u002F\u002Fb.quark.cn\u002Fapps\u002Fqkhomepage_twofoufeb\u002Froutes\u002Fmodel?entry=gp_zhzycpmzhgppckk3_normal_1\\u0026ch=gp_zhzycpmzhgppckk3_normal_1\\u0026image=search\\u0026dp=aiwrite\\u0026spu=biz%3D0%26ci%3D3621868%26si%3De725ecd2-21e6-41e3-86c1-a2bd7041d9dc%26ts%3D1766374104%26zid%3D236\",\"img_size\":0,\"cta\":\"查看详情\",\"native_asset\":{\"plugin_type\":\"\"},\"img_full_screen\":false,\"dynamic_effect\":0,\"animate_style_config\":{\"switch_tag\":1,\"type\":1,\"file\":\"https:\u002F\u002Fzhstatic.zhihu.com\u002Fbrand-ad\u002Fimage\u002F499a-240116\u002F2b475255-b44d-11ee-ac84-52aba93487ab-9xg.pag\",\"duration\":4,\"tips\":\"擦一擦解锁更多精彩\",\"distance\":30,\"delay\":2},\"zm_landing_url\":\"https:\u002F\u002Fb.quark.cn\u002Fapps\u002Fqkhomepage_twofoufeb\u002Froutes\u002Fmodel?entry=gp_zhzycpmzhgppckk3_normal_1\\u0026ch=gp_zhzycpmzhgppckk3_normal_1\\u0026image=search\\u0026dp=aiwrite\\u0026spu=biz%3D0%26ci%3D3621868%26si%3De725ecd2-21e6-41e3-86c1-a2bd7041d9dc%26ts%3D1766374104%26zid%3D236\",\"m_landing_url\":\"\",\"interaction_copy\":\"\"},\"video_watch_num\":10656,\"fact_ctr\":-1,\"fact_cvr\":-1}],\"expand\":{\"display_advertising_tag\":true,\"download_silent\":false,\"is_new_webview\":true,\"is_cdn_speeding\":false,\"extra\":{\"parameters\":\"plugcb=https%3A%2F%2Fsugar.zhihu.com%2Fplutus_adreaper_callback%3Fcid%3D3621868%26ccid%3D2669508%26adid%3D3665968%26zoneid%3D236%26adsource%3Deffect%26sid%3De725ecd2-21e6-41e3-86c1-a2bd7041d9dc\",\"sign\":\"1101619d-77df-41ef-9c95-8ea8ad8ecd84\"},\"is_apk_market_direct\":false,\"interactive\":{\"deliver_time\":\"25 分钟前\",\"browse_string\":\"1751 \",\"slide_time_one\":3,\"slide_time_two\":10,\"slide_end\":true,\"deep_link_jump_time\":3},\"launch_timeout\":600},\"experiment_info\":\"{}\",\"view_x_tracks\":[\"https:\u002F\u002Fsugar.zhihu.com\u002Fplutus_adreaper?s=fa137da2-cfa4-4aa2-8557-1904c1e54544\\u0026pdi=1712633708701107\\u0026idi=100010062\\u0026qpw=0\\u0026ed=CjEEewhlKSlzFGNXAGZ9CQ9oDn1cJXd0f0A0SggzdQVGfVwrACI-eCtGNl8Fdi1KVncKfB4iMyRzFmRRBGl6CE01UHcKdWx5exVqQVI5cQNddwhyDnt8IzoYY0FSP3EARXQfKEh-a3B-Az4SDGF5BVN0CH0Kc2NmO0xvVgljYgJedRdyAW1ocnsDJhQMYXsGXXYOfglzbmYvUm9XFzMkDVtjWD8FdG55fBdkQUExJQ1bY005V35rZi1Vb1cXPy9DVnUfJVskZ3BoQzMUDGBqVgo3BHoeLjkycxV0EkQ5KA1acgh4DnBpd34dZVcAYXwHTSRQKQVzfDQ7GDoTRSA_FVgEHHh-ZmgGLAsjElAiJx4IKxx4fiIqMD0AYCFAOyRfBiBJK18mBTQ5SjQIRDYpUk53fzhXNi4lPQBgIVw_KFUHYAoMXS0uMjcAYSNWIBNKAz9AKUguICgpVSIEWjt_bwUqSydZLwVxaxdkBFl1f3QMNWYwUDkjIz5IKA9WIDxTAC4KFVYsKC0vSQ1WFGJ6WQYkXi8dcB4zK0QgBFl1fgYPNRx5fCIzNzxMJgIXICINjuGBr73IvPXBzfXv1MnkFhkgBHsIc3wyLVdvVxcyKg1aY1YkXSo-fX4DJhMMOHlFGSmwuVXFycqUuA%3D%3D\\u0026t=10\\u0026nt=0\\u0026di=tower\\u0026ar=0\\u0026pf=4\\u0026qpt=0\"],\"traffic_source\":1,\"party_id\":-2,\"deliver_tracks\":[\"http:\u002F\u002Fproxy-ad-track-plutus.pek01.rack.zhihu.com:10000\u002Fad-track\u002Fplutus_log?t=12\\u0026bn=0\\u0026ed=CjEEewplKSlzFGNXAGZ9CQ9oDn1cJXd0f0A0SggzdQVGfVwrACI-eCtGNl8Fdi1KVncKfB4iMyRzFmRRBGl6CE01UHcKdWx5exVqQVI5cQNddwhyDnt8IzoYY0FSP3EARXQfKEh-a3B-Az4SDGF5BVN0CH0Kc2NmO0xvVgljYgJedRdyAW1ocnsDJhQMYXsGXXYOfglzbmYvUm9XFzMkDVtjWD8FdG55fBdkQUExJQ1bY005V35rZi1Vb1cXPy9DVnUfJVskZ3BoQzMUDGBqVgo3BHoeLjkycxV0EkQ5KA1acgh4DnBpd34dZVcAYXwHTSRQKQVzfDQ7GDoTRSA_FVgEHHh-ZmgGLAsjElAiJx4IKxx4fiIqMD0AYCFAOyRfBiBJK18mBTQ5SjQIRDYpUk53fzhXNi4lPQBgIVw_KFUHYAoMXS0uMjcAYSNWIBNKAz9AKUguICgpVSIEWjt_bwUqSydZLwVxaxdkBFl1f3QMNWYwUDkjIz5IKA9WIDxTAC4KFVYsKC0vSQ1WFGJ6WQYkXi8dcB4zK0QgBFl1fgYPNRx5fCIzNzxMJgIXICINjuGBr73IvPXBzfXv1MnkFhkgBHsIc3wyLVdvVxcyKg1aY1YkXSo-fX4DJhMMOHlFGSkNgRDmNYV1qQ%3D%3D\\u0026qpt=0\\u0026rui=e725ecd2-21e6-41e3-86c1-a2bd7041d9dc\\u0026s=fa137da2-cfa4-4aa2-8557-1904c1e54544\\u0026ar=0\\u0026pf=4\\u0026idi=100010062\\u0026pdi=1712633708701107\\u0026di=tower\\u0026ri=e725ecd2-21e6-41e3-86c1-a2bd7041d9dc\\u0026qpw=0\\u0026nt=0\\u0026pty=50\"],\"product_uuid\":1712633708701107,\"interact_type\":\"InteractTypeH5\",\"business_extra\":\"{\\\"advertiser_id\\\":\\\"749226\\\",\\\"ocpx_goal\\\":\\\"0\\\",\\\"ocpx_status\\\":\\\"0\\\",\\\"product_name\\\":\\\"夸克浏览器\\\",\\\"product_uid\\\":\\\"1712633708701107\\\",\\\"product_uuid\\\":\\\"1712633708701107\\\"}\"}]}"
+        }
+      },
+      "advancedStyle": {},
+      "commonAnswerCount": 0,
+      "hiddenAnswerCount": 0,
+      "topicMeta": {
+        "isLoading": {}
+      },
+      "bluestarRanklist": {},
+      "relatedSearch": {},
+      "autoInvitation": {},
+      "simpleConcernedFollowers": {},
+      "draftStatus": {},
+      "disclaimers": {},
+      "isShowMobileSignInModal": false,
+      "aiTask": null
+    },
+    "shareTexts": {},
+    "answers": {
+      "voters": {},
+      "upvoters": {},
+      "copyrightApplicants": {},
+      "favlists": {},
+      "newAnswer": {},
+      "entityWords": {},
+      "paidContent": {},
+      "settings": {},
+      "relationEndorsement": {},
+      "growthCardOrder": {}
+    },
+    "banner": {},
+    "topic": {
+      "bios": {},
+      "hot": {},
+      "newest": {},
+      "top": {},
+      "sticky": {},
+      "pin": {},
+      "unanswered": {},
+      "questions": {},
+      "zivdeo": {},
+      "zvideo-new": {},
+      "pin20": {},
+      "pin20-new": {},
+      "followers": {},
+      "contributors": {},
+      "parent": {},
+      "children": {},
+      "bestAnswerers": {},
+      "wikiMeta": {},
+      "index": {},
+      "intro": {},
+      "meta": {},
+      "schema": {},
+      "creatorWall": {},
+      "wikiEditInfo": {},
+      "committedWiki": {},
+      "landingBasicData": {},
+      "landingExcellentItems": [],
+      "landingExcellentEditors": [],
+      "landingCatalog": [],
+      "landingEntries": {}
+    },
+    "explore": {
+      "recommendations": {},
+      "specials": {
+        "entities": {},
+        "order": []
+      },
+      "roundtables": {
+        "entities": {},
+        "order": []
+      },
+      "collections": {},
+      "columns": {},
+      "square": {
+        "hotQuestionList": [],
+        "potentialList": []
+      }
+    },
+    "articles": {
+      "voters": {},
+      "upvoters": {},
+      "relationEndorsement": {}
+    },
+    "favlists": {
+      "relations": {}
+    },
+    "pins": {
+      "reviewing": {},
+      "upvoters": {},
+      "relationEndorsement": {}
+    },
+    "publishedModal": {
+      "relatedRings": []
+    },
+    "topstory": {
+      "recommend": {
+        "isFetching": false,
+        "isDrained": false,
+        "afterId": 0,
+        "items": [],
+        "next": null
+      },
+      "follow": {
+        "isFetching": false,
+        "isDrained": false,
+        "afterId": 0,
+        "items": [],
+        "next": null
+      },
+      "followWonderful": {
+        "isFetching": false,
+        "isDrained": false,
+        "afterId": 0,
+        "items": [],
+        "next": null
+      },
+      "sidebar": null,
+      "announcement": {},
+      "hotList": [],
+      "hotListHeadZone": [],
+      "guestFeeds": {
+        "isFetching": false,
+        "isDrained": false,
+        "afterId": 0,
+        "items": [],
+        "next": null
+      },
+      "followExtra": {
+        "isNewUser": null,
+        "isFetched": false,
+        "followCount": 0,
+        "followers": []
+      },
+      "hotDaily": {
+        "data": [],
+        "paging": {}
+      },
+      "hotHighlight": {
+        "isFetching": false,
+        "isDrained": false,
+        "data": [],
+        "paging": {}
+      },
+      "banner": {},
+      "commercialBanner": {
+        "show": false,
+        "banner": {},
+        "trackData": {}
+      },
+      "video": {
+        "items": [],
+        "next": null,
+        "isLoading": false,
+        "isDrained": false
+      },
+      "ringTab": {
+        "headerData": null,
+        "feedLoading": false,
+        "feedError": false,
+        "feedPaging": {},
+        "feedList": []
+      }
+    },
+    "upload": {},
+    "video": {
+      "data": {},
+      "shareVideoDetail": {},
+      "last": {}
+    },
+    "zvideos": {
+      "campaignVideoList": {},
+      "campaigns": {},
+      "tagoreCategory": [],
+      "recommendations": {},
+      "insertable": {},
+      "recruit": {
+        "form": {
+          "platform": "",
+          "nickname": "",
+          "followerCount": "",
+          "domain": "",
+          "contact": ""
+        },
+        "submited": false,
+        "ranking": []
+      },
+      "qyActivityData": {},
+      "talkActivityData": {},
+      "party2022ActivityData": {},
+      "batchVideos": {},
+      "creationReferences": {},
+      "zvideoCollection": {},
+      "zvideoGrant": {},
+      "collectData": {
+        "isFetching": false,
+        "list": []
+      },
+      "videoSource": {
+        "isLoaded": false
+      },
+      "paidColumnInfo": {}
+    },
+    "guide": {
+      "guide": {
+        "isFetching": false,
+        "isShowGuide": false
+      }
+    },
+    "reward": {
+      "answer": {},
+      "article": {},
+      "question": {}
+    },
+    "search": {
+      "recommendSearch": [],
+      "topSearch": {},
+      "searchValue": {},
+      "suggestSearch": {},
+      "attachedInfo": {
+        "generalByQuery": {}
+      },
+      "nextOffset": {
+        "generalByQuery": {}
+      },
+      "topicReview": {},
+      "sidebar": {},
+      "calendar": {},
+      "scores": null,
+      "majors": {},
+      "university": {},
+      "generalByQuery": {},
+      "generalByQueryInADay": {},
+      "generalByQueryInAWeek": {},
+      "generalByQueryInThreeMonths": {},
+      "peopleByQuery": {},
+      "topicByQuery": {},
+      "zvideoByQuery": {},
+      "scholarByQuery": {},
+      "columnByQuery": {},
+      "liveByQuery": {},
+      "albumByQuery": {},
+      "eBookByQuery": {},
+      "kmGeneralByQuery": {},
+      "kmCourseByQuery": {},
+      "favlistByQuery": {},
+      "ringByQuery": {},
+      "customFilter": {
+        "requestFinished": false,
+        "keys": [],
+        "tags": []
+      },
+      "zhidaRelatedQuestions": {
+        "isLoading": false,
+        "data": [],
+        "showZhidaRelatedQuestionsCard": false
+      }
+    },
+    "creatorSalt": {
+      "recommendQuestionList": [],
+      "bannerList": [],
+      "claimBannerList": [],
+      "sites": [],
+      "domains": {},
+      "hasRecored": false,
+      "hasClaim": false,
+      "hasContributedList": [],
+      "notContributedList": [],
+      "contributesTotal": null,
+      "previewPageTitle": "",
+      "previewPageContent": "",
+      "restContributionNumber": "-"
+    },
+    "publicEditPermission": {},
+    "readStatus": {},
+    "draftHistory": {
+      "history": {},
+      "drafts": {}
+    },
+    "notifications": {
+      "recent": {
+        "isFetching": false,
+        "isDrained": false,
+        "isPrevDrained": false,
+        "result": [],
+        "next": null,
+        "key": null
+      },
+      "history": {
+        "isFetching": false,
+        "isDrained": false,
+        "isPrevDrained": false,
+        "result": [],
+        "next": null,
+        "key": null
+      },
+      "notificationActors": {
+        "isFetching": false,
+        "isDrained": false,
+        "isPrevDrained": false,
+        "result": [],
+        "next": null,
+        "key": null
+      },
+      "recentNotificationEntry": "all"
+    },
+    "specials": {
+      "entities": {},
+      "all": {
+        "data": [],
+        "paging": {},
+        "isLoading": false
+      }
+    },
+    "collections": {
+      "hot": {
+        "data": [],
+        "paging": {},
+        "isLoading": false,
+        "errorPayload": null
+      },
+      "collectionFeeds": {}
+    },
+    "userProfit": {
+      "permission": {
+        "permissionStatus": {
+          "zhiZixuan": 0,
+          "recommend": -1,
+          "task": 0,
+          "plugin": 0,
+          "infinity": 0
+        },
+        "visible": false
+      },
+      "linkCardLimit": 0
+    },
+    "mcn": {
+      "bindInfo": {},
+      "memberCategoryList": [],
+      "producerList": [],
+      "categoryList": [],
+      "lists": {},
+      "banners": {},
+      "protocolStatus": {
+        "isAgreedNew": true,
+        "isAgreedOld": true
+      },
+      "probationCountdownDays": 0
+    },
+    "mcnActivity": {
+      "household": {
+        "products": {},
+        "rankList": {
+          "total": {},
+          "yesterday": {}
+        }
+      }
+    },
+    "brand": {
+      "contentPlugin": {}
+    },
+    "host": {
+      "roundtable": {
+        "subjects": {},
+        "applications": {
+          "total": 0
+        },
+        "online": {
+          "total": 0
+        },
+        "applies": {},
+        "details": {},
+        "includedResource": {},
+        "hotQuestions": {},
+        "warmupContents": {},
+        "batchInclude": {}
+      },
+      "special": {
+        "applications": {
+          "total": 0,
+          "pages": {},
+          "entities": {}
+        },
+        "censorHistory": {},
+        "drafts": {}
+      }
+    },
+    "campaign": {
+      "single": {},
+      "list": {},
+      "videoMakerAcq": {},
+      "vote": {},
+      "cardCollecting": {
+        "message": null,
+        "profile": {
+          "balance": "0",
+          "chance": 0,
+          "coinNum": 0,
+          "gatherClose": false,
+          "isGotMagicCard": false,
+          "isPay": false,
+          "partitionStart": false,
+          "totalDone": 0,
+          "withdrawStart": false
+        },
+        "sharePoster": {
+          "share": "",
+          "sendCard": "",
+          "invite": ""
+        },
+        "shareLink": null,
+        "shareIntention": "share",
+        "shareKey": null,
+        "shareCardId": null,
+        "inviterInfo": null,
+        "giverInfo": null,
+        "prize": null,
+        "receivedCard": null,
+        "newCoinCount": null,
+        "newCardList": [],
+        "newUserCardCount": 1,
+        "taskList": [],
+        "prizeList": null,
+        "cardList": null,
+        "panel": {
+          "showTaskPanel": false,
+          "showRewardPanel": false
+        },
+        "modal": {
+          "showWelcomeModal": false,
+          "showFusionModal": false,
+          "showFusionPromptModal": false,
+          "showShareModal": false,
+          "showBackModal": false
+        }
+      },
+      "zhiboPandian2020": null,
+      "boarding": {},
+      "searchGaokaoSubPage": {},
+      "searchHealth": {}
+    },
+    "knowledgePlan": {
+      "lists": {},
+      "allCreationRankList": {},
+      "featuredQuestions": {}
+    },
+    "wallE": {
+      "protectHistory": {
+        "total": 0,
+        "pages": {},
+        "entities": {}
+      }
+    },
+    "roundtables": {
+      "hotQuestions": {},
+      "warmupContents": {},
+      "hotDiscussions": {},
+      "selectedContents": {},
+      "roundtables": {}
+    },
+    "helpCenter": {
+      "entities": {
+        "question": {},
+        "category": {}
+      },
+      "categories": [],
+      "commonQuestions": [],
+      "relatedQuestions": {},
+      "faqTypes": []
+    },
+    "republish": {},
+    "commercialReport": {
+      "commercialTypes": []
+    },
+    "creatorMCN": {
+      "mcn": {},
+      "mcnStatistics": {},
+      "mcnRight": {
+        "bind": false,
+        "coupon": false
+      },
+      "isNoAuth": false,
+      "creatorManageData": [],
+      "creatorManageDataTotal": 1,
+      "mcnDomains": [],
+      "bill": {
+        "list": {},
+        "detail": {}
+      },
+      "healthScore": {
+        "healthScore": "0",
+        "updateTime": "",
+        "evaluate": ""
+      },
+      "healthScoreRecordInfo": {},
+      "beforeDownloadCheckResult": {},
+      "beforePromotionData": [],
+      "afterPromotionData": []
+    },
+    "commentManage": {
+      "commentList": {
+        "ids": [],
+        "entities": {},
+        "nextOffset": 0,
+        "urlToken": ""
+      },
+      "subCommentList": {
+        "ids": [],
+        "entities": {},
+        "paging": {
+          "next": "",
+          "isEnd": false
+        }
+      }
+    },
+    "commentPermission": {},
+    "creatorRightStatus": {
+      "list": []
+    },
+    "zhiPlus": {
+      "permissionStatus": 9999
+    },
+    "streaming": {},
+    "creationRanking": {},
+    "eduSections": {
+      "eduSectionState": {}
+    },
+    "adPromotion": {
+      "answer": {},
+      "article": {}
+    },
+    "editVideo": {
+      "editVideoEnabled": false
+    },
+    "zhidaEntry": {
+      "sidebar": {
+        "answer": {},
+        "question": {}
+      },
+      "answerBottom": {}
+    },
+    "guideZhidaCard": {
+      "cardStatus": {
+        "isShowGuideZhidaCard": false,
+        "guideZhidaCardInView": false,
+        "isClickedBeforeAbIndex": false,
+        "isManualClose": false,
+        "clickedPosition": -1
+      }
+    },
+    "hotSpot": {},
+    "contentColumnCard": {},
+    "rings": {
+      "rankList": {},
+      "membersList": {},
+      "membersListPaging": {}
+    },
+    "menuIgnoreSet": {}
+  },
+  "subAppName": "main",
+  "spanName": "QuestionPage",
+  "canaryConfig": {
+    "test_canary": "0",
+    "use_new_player": "0",
+    "player_vendor": "0",
+    "use_hevc": "1",
+    "upload_use_signature": "1",
+    "use_backdrop_blur": "1",
+    "article_title_imagex": "1",
+    "play_station": "1",
+    "use_cached_supported_countries": "1",
+    "segment_interaction": "1",
+    "creation_center_v2": "1"
+  }
+}
