@@ -1,0 +1,270 @@
+{
+  "prevRouteData": {},
+  "prevRoute": "Empty",
+  "commentTarget": {},
+  "isImgFullscreen": false,
+  "gotoPage": "",
+  "firstNoteId": "68d7a9a4000000001301a318",
+  "autoOpenNote": false,
+  "topCommentId": "",
+  "noteDetailMap": {
+    "68d7a9a4000000001301a318": {
+      "comments": {
+        "list": [],
+        "cursor": "",
+        "hasMore": true,
+        "loading": false,
+        "firstRequestFinish": false
+      },
+      "currentTime": 1765952679428,
+      "note": {
+        "xsecToken": "ABdvkllLomBOGJHQ_-QdRN6EUX6U40KKLpk-xB_7v3xV0=",
+        "desc": "Come and see the real China, and don’t just believe what the media says.😉#chinatravel[话题]# #travel[话题]# #travelguide[话题]# #realchina[话题]# #世界的中心[话题]# #这里是美丽的中国[话题]# #屹立在世界的东方[话题]# ##chinatravelwithrednote[话题]# #中国[话题]# #fyp[话题]#",
+        "interactInfo": {
+          "relation": "none",
+          "liked": false,
+          "likedCount": "2005",
+          "collected": false,
+          "collectedCount": "150",
+          "commentCount": "173",
+          "shareCount": "12",
+          "followed": false
+        },
+        "imageList": [
+          {
+            "height": 1920,
+            "urlPre": "http:\u002F\u002Fsns-webpic-qc.xhscdn.com\u002F202512171424\u002Fb1e09ad165e86dadee8de59a3427effc\u002F1040g00831mu9mg4kl8005ntbar608onlmpsnej8!nd_prv_wlteh_webp_3",
+            "urlDefault": "http:\u002F\u002Fsns-webpic-qc.xhscdn.com\u002F202512171424\u002F4ba9a27e1ecbc4d38fd2251a6db027c2\u002F1040g00831mu9mg4kl8005ntbar608onlmpsnej8!nd_dft_wlteh_webp_3",
+            "fileId": "",
+            "url": "",
+            "traceId": "",
+            "infoList": [
+              {
+                "imageScene": "WB_PRV",
+                "url": "http:\u002F\u002Fsns-webpic-qc.xhscdn.com\u002F202512171424\u002Fb1e09ad165e86dadee8de59a3427effc\u002F1040g00831mu9mg4kl8005ntbar608onlmpsnej8!nd_prv_wlteh_webp_3"
+              },
+              {
+                "imageScene": "WB_DFT",
+                "url": "http:\u002F\u002Fsns-webpic-qc.xhscdn.com\u002F202512171424\u002F4ba9a27e1ecbc4d38fd2251a6db027c2\u002F1040g00831mu9mg4kl8005ntbar608onlmpsnej8!nd_dft_wlteh_webp_3"
+              }
+            ],
+            "stream": {},
+            "livePhoto": false,
+            "width": 1080
+          }
+        ],
+        "video": {
+          "media": {
+            "videoId": 137596912221765580,
+            "video": {
+              "bizId": "281712100316652312",
+              "duration": 20,
+              "md5": "27d034253e135820562552dac9c29a44",
+              "hdrType": 0,
+              "drmType": 0,
+              "streamTypes": [
+                259,
+                114,
+                115
+              ],
+              "bizName": 110
+            },
+            "stream": {
+              "h265": [
+                {
+                  "videoCodec": "hevc",
+                  "ssim": 0,
+                  "streamType": 114,
+                  "volume": 0,
+                  "audioCodec": "aac",
+                  "audioBitrate": 128933,
+                  "audioChannels": 2,
+                  "streamDesc": "X265_MP4_WEB_114",
+                  "fps": 30,
+                  "videoDuration": 19300,
+                  "rotate": 0,
+                  "masterUrl": "http:\u002F\u002Fsns-video-bd.xhscdn.com\u002Fstream\u002F79\u002F110\u002F114\u002F01e8d7a9a32b3fcc4f037001998a6f190a_114.mp4",
+                  "width": 720,
+                  "psnr": 40.53499984741211,
+                  "size": 4285602,
+                  "audioDuration": 19317,
+                  "vmaf": -1,
+                  "weight": 62,
+                  "qualityType": "HD",
+                  "format": "mp4",
+                  "duration": 19318,
+                  "height": 1280,
+                  "avgBitrate": 1774760,
+                  "backupUrls": [
+                    "http:\u002F\u002Fsns-bak-v1.xhscdn.com\u002Fstream\u002F79\u002F110\u002F114\u002F01e8d7a9a32b3fcc4f037001998a6f190a_114.mp4",
+                    "http:\u002F\u002Fsns-bak-v6.xhscdn.com\u002Fstream\u002F79\u002F110\u002F114\u002F01e8d7a9a32b3fcc4f037001998a6f190a_114.mp4"
+                  ],
+                  "hdrType": 0,
+                  "defaultStream": 0,
+                  "videoBitrate": 1640101
+                },
+                {
+                  "defaultStream": 0,
+                  "height": 1920,
+                  "duration": 19318,
+                  "videoDuration": 19300,
+                  "audioBitrate": 128933,
+                  "audioChannels": 2,
+                  "format": "mp4",
+                  "volume": 0,
+                  "psnr": 40.88100051879883,
+                  "ssim": 0,
+                  "qualityType": "HD",
+                  "streamDesc": "X265_MP4_WEB_115",
+                  "videoCodec": "hevc",
+                  "backupUrls": [
+                    "http:\u002F\u002Fsns-bak-v1.xhscdn.com\u002Fstream\u002F1\u002F110\u002F115\u002F01e8d7a9a32b3fcc01037001998a701351_115.mp4",
+                    "http:\u002F\u002Fsns-bak-v6.xhscdn.com\u002Fstream\u002F1\u002F110\u002F115\u002F01e8d7a9a32b3fcc01037001998a701351_115.mp4"
+                  ],
+                  "avgBitrate": 2223685,
+                  "audioCodec": "aac",
+                  "weight": 70,
+                  "streamType": 115,
+                  "size": 5369644,
+                  "fps": 30,
+                  "vmaf": -1,
+                  "audioDuration": 19317,
+                  "hdrType": 0,
+                  "width": 1080,
+                  "videoBitrate": 2089442,
+                  "rotate": 0,
+                  "masterUrl": "http:\u002F\u002Fsns-video-bd.xhscdn.com\u002Fstream\u002F1\u002F110\u002F115\u002F01e8d7a9a32b3fcc01037001998a701351_115.mp4"
+                }
+              ],
+              "h266": [],
+              "av1": [],
+              "h264": [
+                {
+                  "defaultStream": 0,
+                  "format": "mp4",
+                  "size": 4478077,
+                  "videoCodec": "h264",
+                  "streamDesc": "WM_X264_MP4",
+                  "vmaf": -1,
+                  "audioChannels": 2,
+                  "rotate": 0,
+                  "avgBitrate": 1854468,
+                  "weight": 62,
+                  "volume": 0,
+                  "audioCodec": "aac",
+                  "audioBitrate": 64525,
+                  "height": 1280,
+                  "duration": 19318,
+                  "videoBitrate": 1784513,
+                  "audioDuration": 19317,
+                  "streamType": 259,
+                  "qualityType": "HD",
+                  "hdrType": 0,
+                  "ssim": 0,
+                  "videoDuration": 19300,
+                  "masterUrl": "http:\u002F\u002Fsns-video-bd.xhscdn.com\u002Fstream\u002F79\u002F110\u002F259\u002F01e8d7a9a32b3fcc01037003998a6edb53_259.mp4",
+                  "backupUrls": [
+                    "http:\u002F\u002Fsns-bak-v1.xhscdn.com\u002Fstream\u002F79\u002F110\u002F259\u002F01e8d7a9a32b3fcc01037003998a6edb53_259.mp4",
+                    "http:\u002F\u002Fsns-bak-v6.xhscdn.com\u002Fstream\u002F79\u002F110\u002F259\u002F01e8d7a9a32b3fcc01037003998a6edb53_259.mp4"
+                  ],
+                  "psnr": 0,
+                  "fps": 30,
+                  "width": 720
+                }
+              ]
+            }
+          },
+          "image": {
+            "thumbnailFileid": "frame\u002F110\u002F0\u002F01e8d7a9a32b3fcc001000000001998a6ebc47_0.webp"
+          },
+          "capa": {
+            "duration": 19
+          },
+          "consumer": {
+            "originVideoKey": "pre_post\u002F1040g2t031mu9mfli6m005ntbar608onlfr49ab0"
+          }
+        },
+        "time": 1758964132000,
+        "shareInfo": {
+          "unShare": false
+        },
+        "title": "The media tells you that China is...？",
+        "type": "video",
+        "user": {
+          "userId": "5fab56cc00000000010062f5",
+          "nickname": "Wanderlust China",
+          "avatar": "https:\u002F\u002Fsns-avatar-qc.xhscdn.com\u002Favatar\u002F1040g2jo31clj982e10005ntbar608onlmpsauno",
+          "xsecToken": "ABhM2PHLoDZ98gg2ECyRfzouJyTrM_MudUvs7vU7Ye-ZE="
+        },
+        "tagList": [
+          {
+            "id": "611e35da00000000010033c0",
+            "name": "chinatravel",
+            "type": "topic"
+          },
+          {
+            "id": "5478ebc3d6e4a97ddf40b59b",
+            "name": "travel",
+            "type": "topic"
+          },
+          {
+            "id": "610cb04c0000000001004085",
+            "name": "travelguide",
+            "type": "topic"
+          },
+          {
+            "id": "6242d2b6000000000100a1fc",
+            "name": "realchina",
+            "type": "topic"
+          },
+          {
+            "name": "世界的中心",
+            "type": "topic",
+            "id": "61593f10000000000101ddfe"
+          },
+          {
+            "id": "6336f0ba000000000100a035",
+            "name": "这里是美丽的中国",
+            "type": "topic"
+          },
+          {
+            "id": "65bc5a2e0000000003016bb3",
+            "name": "屹立在世界的东方",
+            "type": "topic"
+          },
+          {
+            "id": "683ac692000000001201adec",
+            "name": "chinatravelwithrednote",
+            "type": "topic"
+          },
+          {
+            "name": "中国",
+            "type": "topic",
+            "id": "5be161901d1c430001f2c38f"
+          },
+          {
+            "type": "topic",
+            "id": "5e65eb6c0000000001009787",
+            "name": "fyp"
+          }
+        ],
+        "atUserList": [],
+        "lastUpdateTime": 1758964133000,
+        "noteId": "68d7a9a4000000001301a318"
+      }
+    }
+  },
+  "serverRequestInfo": {
+    "state": "success",
+    "errorCode": 0,
+    "errMsg": ""
+  },
+  "volume": 0,
+  "recommendVideoMap": {},
+  "videoFeedType": "note_source",
+  "rate": 1,
+  "currentNoteId": "68d7a9a4000000001301a318",
+  "forceScrollToComment": false,
+  "mediaWidth": 450,
+  "noteHeight": 800
+}

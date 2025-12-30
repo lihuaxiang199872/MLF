@@ -1,0 +1,269 @@
+{
+  "prevRouteData": {},
+  "prevRoute": "Empty",
+  "commentTarget": {},
+  "isImgFullscreen": false,
+  "gotoPage": "",
+  "firstNoteId": "693a7d60000000001e024796",
+  "autoOpenNote": false,
+  "topCommentId": "",
+  "noteDetailMap": {
+    "693a7d60000000001e024796": {
+      "comments": {
+        "list": [],
+        "cursor": "",
+        "hasMore": true,
+        "loading": false,
+        "firstRequestFinish": false
+      },
+      "currentTime": 1765942128420,
+      "note": {
+        "xsecToken": "ABN5hPxQV7XHlSuit8r_qBRLABsRmw_lY4O44ms6jdZgA=",
+        "tagList": [
+          {
+            "id": "641ae39b000000000901aad9",
+            "name": "人见人夸的小家",
+            "type": "topic"
+          },
+          {
+            "id": "5bff81e29c9f3400019a2bed",
+            "name": "公寓",
+            "type": "topic"
+          },
+          {
+            "name": "公寓大改造",
+            "type": "topic",
+            "id": "590ff5a9cd30d84d8161dd0f"
+          },
+          {
+            "id": "603e4a38000000000101d286",
+            "name": "一个人的小窝",
+            "type": "topic"
+          },
+          {
+            "type": "topic",
+            "id": "545254dbd6e4a90c60310a81",
+            "name": "软装"
+          },
+          {
+            "id": "60c74b230000000001000525",
+            "name": "梦中情房",
+            "type": "topic"
+          },
+          {
+            "id": "665961f2000000000202f7b9",
+            "name": "装修新手村",
+            "type": "topic"
+          },
+          {
+            "id": "5d0c59dc000000000f0343fc",
+            "name": "独居女孩",
+            "type": "topic"
+          },
+          {
+            "type": "topic",
+            "id": "5d4bcb7900000000170371c5",
+            "name": "我的小家"
+          },
+          {
+            "id": "5c3e0b0f000000000f00c896",
+            "name": "家居好物",
+            "type": "topic"
+          }
+        ],
+        "desc": "#人见人夸的小家[话题]# #公寓[话题]# #公寓大改造[话题]# #一个人的小窝[话题]# #软装[话题]# #梦中情房[话题]# #装修新手村[话题]# #独居女孩[话题]# #我的小家[话题]# #家居好物[话题]#",
+        "interactInfo": {
+          "relation": "none",
+          "liked": false,
+          "likedCount": "382",
+          "collected": false,
+          "collectedCount": "98",
+          "commentCount": "16",
+          "shareCount": "36",
+          "followed": false
+        },
+        "time": 1765440864000,
+        "shareInfo": {
+          "unShare": false
+        },
+        "type": "video",
+        "title": "首付7万｜月供500｜我的19平小公寓",
+        "imageList": [
+          {
+            "fileId": "",
+            "traceId": "",
+            "livePhoto": false,
+            "urlDefault": "http:\u002F\u002Fsns-webpic-qc.xhscdn.com\u002F202512171128\u002F6634a9c742afd769541a9657069617e6\u002F1040g2sg31pupvq37maeg4bum35eef33c62vjudg!nd_dft_wlteh_jpg_3",
+            "stream": {},
+            "height": 3672,
+            "width": 2754,
+            "url": "",
+            "infoList": [
+              {
+                "imageScene": "WB_PRV",
+                "url": "http:\u002F\u002Fsns-webpic-qc.xhscdn.com\u002F202512171128\u002Fd9b585e98ec19bd14fe4017c69eae60c\u002F1040g2sg31pupvq37maeg4bum35eef33c62vjudg!nd_prv_wlteh_jpg_3"
+              },
+              {
+                "imageScene": "WB_DFT",
+                "url": "http:\u002F\u002Fsns-webpic-qc.xhscdn.com\u002F202512171128\u002F6634a9c742afd769541a9657069617e6\u002F1040g2sg31pupvq37maeg4bum35eef33c62vjudg!nd_dft_wlteh_jpg_3"
+              }
+            ],
+            "urlPre": "http:\u002F\u002Fsns-webpic-qc.xhscdn.com\u002F202512171128\u002Fd9b585e98ec19bd14fe4017c69eae60c\u002F1040g2sg31pupvq37maeg4bum35eef33c62vjudg!nd_prv_wlteh_jpg_3"
+          }
+        ],
+        "atUserList": [],
+        "ipLocation": "江苏",
+        "noteId": "693a7d60000000001e024796",
+        "user": {
+          "userId": "5bffdce744363b33c04a8c6c",
+          "nickname": "张小贝贝",
+          "avatar": "https:\u002F\u002Fsns-avatar-qc.xhscdn.com\u002Favatar\u002F1040g2jo31os0iodjha004bum35eef33c9vchpo8",
+          "xsecToken": "ABwG61XMWodbhAzhogzXKgHvALub6LYRV0126xeBov0oc="
+        },
+        "video": {
+          "media": {
+            "videoId": 137705572964718880,
+            "video": {
+              "bizName": 110,
+              "bizId": "281820761851316118",
+              "duration": 38,
+              "md5": "d50261917d398711f68d2c85f66f7c71",
+              "hdrType": 0,
+              "drmType": 0,
+              "streamTypes": [
+                259,
+                114,
+                115
+              ]
+            },
+            "stream": {
+              "h265": [
+                {
+                  "streamDesc": "X265_MP4_WEB_114",
+                  "volume": 0,
+                  "streamType": 114,
+                  "defaultStream": 0,
+                  "duration": 37267,
+                  "audioDuration": 37266,
+                  "vmaf": -1,
+                  "format": "mp4",
+                  "hdrType": 0,
+                  "psnr": 41.02299880981445,
+                  "videoCodec": "hevc",
+                  "audioCodec": "aac",
+                  "audioBitrate": 128403,
+                  "audioChannels": 2,
+                  "masterUrl": "http:\u002F\u002Fsns-video-qc.xhscdn.com\u002Fstream\u002F1\u002F110\u002F114\u002F01e93a7d30275928010370019b0c7bfbbb_114.mp4?sign=d9c5143006f4b5742456ce6a8cc78e26&t=6946c0b0",
+                  "avgBitrate": 1567847,
+                  "videoDuration": 37266,
+                  "ssim": 0,
+                  "qualityType": "HD",
+                  "height": 1280,
+                  "size": 7303620,
+                  "fps": 59,
+                  "videoBitrate": 1430380,
+                  "rotate": 0,
+                  "width": 720,
+                  "backupUrls": [
+                    "http:\u002F\u002Fsns-bak-v6.xhscdn.com\u002Fstream\u002F1\u002F110\u002F114\u002F01e93a7d30275928010370019b0c7bfbbb_114.mp4"
+                  ],
+                  "weight": 62
+                },
+                {
+                  "vmaf": -1,
+                  "weight": 70,
+                  "streamType": 115,
+                  "format": "mp4",
+                  "videoDuration": 37266,
+                  "audioCodec": "aac",
+                  "audioChannels": 2,
+                  "defaultStream": 0,
+                  "width": 1080,
+                  "duration": 37267,
+                  "rotate": 0,
+                  "backupUrls": [
+                    "http:\u002F\u002Fsns-bak-v6.xhscdn.com\u002Fstream\u002F1\u002F110\u002F115\u002F01e93a7d30275928010370019b0c7bca03_115.mp4"
+                  ],
+                  "qualityType": "HD",
+                  "videoCodec": "hevc",
+                  "audioBitrate": 128403,
+                  "height": 1920,
+                  "size": 8238077,
+                  "streamDesc": "X265_MP4_WEB_115",
+                  "hdrType": 0,
+                  "audioDuration": 37266,
+                  "ssim": 0,
+                  "masterUrl": "http:\u002F\u002Fsns-video-qc.xhscdn.com\u002Fstream\u002F1\u002F110\u002F115\u002F01e93a7d30275928010370019b0c7bca03_115.mp4?sign=5c56265ee34ede0907ae98710df6f9eb&t=6946c0b0",
+                  "psnr": 39.81700134277344,
+                  "volume": 0,
+                  "avgBitrate": 1768444,
+                  "videoBitrate": 1630981,
+                  "fps": 59
+                }
+              ],
+              "h266": [],
+              "av1": [],
+              "h264": [
+                {
+                  "height": 1280,
+                  "size": 5845130,
+                  "volume": 0,
+                  "ssim": 0,
+                  "qualityType": "HD",
+                  "streamType": 259,
+                  "format": "mp4",
+                  "avgBitrate": 1254757,
+                  "videoDuration": 37266,
+                  "audioChannels": 2,
+                  "vmaf": -1,
+                  "defaultStream": 0,
+                  "width": 720,
+                  "fps": 60,
+                  "videoCodec": "h264",
+                  "rotate": 0,
+                  "videoBitrate": 1181690,
+                  "audioCodec": "aac",
+                  "masterUrl": "http:\u002F\u002Fsns-video-qc.xhscdn.com\u002Fstream\u002F1\u002F110\u002F259\u002F01e93a7d30275928010370039b0c7a57a6_259.mp4?sign=49ddb00a056abff6031c3b6e48e81f6c&t=6946c0b0",
+                  "backupUrls": [
+                    "http:\u002F\u002Fsns-bak-v6.xhscdn.com\u002Fstream\u002F1\u002F110\u002F259\u002F01e93a7d30275928010370039b0c7a57a6_259.mp4"
+                  ],
+                  "duration": 37267,
+                  "audioBitrate": 64250,
+                  "audioDuration": 37266,
+                  "hdrType": 0,
+                  "psnr": 0,
+                  "weight": 62,
+                  "streamDesc": "WM_X264_MP4"
+                }
+              ]
+            }
+          },
+          "image": {
+            "firstFrameFileid": "110\u002F0\u002F01e93a7d302759280010000000019b0c79c990_0.jpg",
+            "thumbnailFileid": "frame\u002F110\u002F0\u002F01e93a7d302759280010000000019b0c7a8367_0.webp"
+          },
+          "capa": {
+            "duration": 37
+          },
+          "consumer": {
+            "originVideoKey": "pre_post\u002F1040g0cg31pupvq37mk004bum35eef33c4askqko"
+          }
+        },
+        "lastUpdateTime": 1765440865000
+      }
+    }
+  },
+  "serverRequestInfo": {
+    "state": "success",
+    "errorCode": 0,
+    "errMsg": ""
+  },
+  "volume": 0,
+  "recommendVideoMap": {},
+  "videoFeedType": "note_source",
+  "rate": 1,
+  "currentNoteId": "693a7d60000000001e024796",
+  "forceScrollToComment": false,
+  "mediaWidth": 450,
+  "noteHeight": 800
+}
